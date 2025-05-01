@@ -42,9 +42,12 @@ census_tract_value = st.text_input(
 )
 st.divider()
 
-loan_amount_value = st.text_input(
-    "Loan Amount (000s)"
-)
+# loan_amount_value = st.text_input(
+#     "Loan Amount (000s)"
+# )
+
+loan_amlount_value = st.number_input("Loan Amount (000s)", min_value=50, max_value=2000, step=10)
+
 st.divider()
 
 
