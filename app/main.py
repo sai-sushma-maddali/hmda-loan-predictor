@@ -4,7 +4,7 @@ import dataPrep
 import dataProcessing
 import targetPrediction
 
-with open("info.json", "r") as json_file:
+with open(r"C:\SJSU\Spring 2025\DATA 230\002 Project\HMDA\hmda-loan-predictor\app\info.json.json", "r") as json_file:
     info = json.load(json_file)
 
 st.title("Home Mortgage Disclosure Act (HMDA) Loan Decision Prediction")
