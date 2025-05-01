@@ -3,7 +3,7 @@ import numpy as np
 import pickle
 import json
 
-with open(r"C:\SJSU\Spring 2025\DATA 230\002 Project\HMDA\hmda-loan-predictor\app\county_census_data.json", "r") as json_file:
+with open(r"app\county_census_data.json", "r") as json_file:
     county_census_data = json.load(json_file)
 
 
