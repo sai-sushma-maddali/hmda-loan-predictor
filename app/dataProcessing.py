@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import pickle
 import json
+import os
 
 def process_data(prepared_data):
 
@@ -55,12 +56,13 @@ def process_data(prepared_data):
     ##### One hot encoding
 
     # load ohe
-
-    with open("one_hot_encoder.pkl", "rb") as file:
+    
+    with open(os.path.join(os.getcwd(), "app", "one_hot_encoder.pkl"), "rb") as file:
         ohe = pickle.load(file)
 
     # Load cat_feature_names
-    with open("one_hot_encoder_cat_feature_names.pkl", "rb") as file:
+    
+    with open(os.path.join(os.getcwd(), "app", "one_hot_encoder_cat_feature_names.pkl"), "rb") as file:
         cat_feature_names = pickle.load(file)
 
     X_one_cat_encoded = ohe.transform(X_one_processed[categorical_cols])
@@ -70,8 +72,8 @@ def process_data(prepared_data):
     ######## Standardization
 
     # Load scaler from pickle
-
-    with open("standard_scalar_obj.pkl", "rb") as file:
+    
+    with open(os.path.join(os.getcwd(), "app", "standard_scalar_obj.pkl"), "rb") as file:
         scaler = pickle.load(file)
 
     X_one_numeric_scaled = scaler.transform(X_one_processed[numerical_cols])
@@ -83,7 +85,8 @@ def process_data(prepared_data):
     ########## PCA
     # Load PCA 
 
-    with open("pca_obj.pkl", "rb") as file:
+    
+    with open(os.path.join(os.getcwd(), "app", "pca_obj.pkl"), "rb") as file:
         pca = pickle.load(file)
 
     X_one_pca = pca.transform(X_one_final) 
