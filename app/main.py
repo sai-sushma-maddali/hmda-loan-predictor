@@ -3,8 +3,10 @@ import json
 import dataPrep
 import dataProcessing
 import targetPrediction
+import os
+file_path = os.path.join(os.getcwd(), "app", "info.json")
 
-with open(r"C:\SJSU\Spring 2025\DATA 230\002 Project\HMDA\hmda-loan-predictor\app\info.json.json", "r") as json_file:
+with open(file_path, "r") as json_file:
     info = json.load(json_file)
 
 st.title("Home Mortgage Disclosure Act (HMDA) Loan Decision Prediction")
