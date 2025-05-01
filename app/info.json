@@ -1,0 +1,88 @@
+ {
+    "agency_name_list": [
+        "Department of Housing and Urban Development",
+        "Federal Deposit Insurance Corporation",
+        "National Credit Union Administration",
+        "Office of the Comptroller of the Currency",
+        "Consumer Financial Protection Bureau",
+        "Federal Reserve System"
+    ],
+    "property_type_name_list": [
+        "Manufactured housing",
+        "One-to-four family dwelling (other than manufactured housing)",
+        "Multifamily dwelling"
+    ],
+    "owner_occupancy_name_list": [
+        "Owner-occupied as a principal dwelling",
+        "Not owner-occupied as a principal dwelling",
+        "Not applicable"
+    ],
+    "preapproval_name_list": [
+        "Not applicable",
+        "Preapproval was not requested",
+        "Preapproval was requested"
+    ],
+    "applicant_ethnicity_name_list": [
+        "Information not provided by applicant in mail, Internet, or telephone application",
+        "Not Hispanic or Latino",
+        "Not applicable",
+        "Hispanic or Latino"
+    ],
+    "co_applicant_ethnicity_name_list": [
+        "No co-applicant",
+        "Information not provided by applicant in mail, Internet, or telephone application",
+        "Not Hispanic or Latino",
+        "Hispanic or Latino",
+        "Not applicable"
+    ],
+    "applicant_race_name_1_list": [
+        "Information not provided by applicant in mail, Internet, or telephone application",
+        "White",
+        "Black or African American",
+        "Not applicable",
+        "Asian",
+        "Native Hawaiian or Other Pacific Islander",
+        "American Indian or Alaska Native"
+    ],
+    "co_applicant_race_name_1_list": [
+        "No co-applicant",
+        "Information not provided by applicant in mail, Internet, or telephone application",
+        "White",
+        "Black or African American",
+        "Asian",
+        "American Indian or Alaska Native",
+        "Native Hawaiian or Other Pacific Islander",
+        "Not applicable"
+    ],
+    "applicant_gender_list": [
+        "Information not provided by applicant in mail, Internet, or telephone application",
+        "Male",
+        "Female",
+        "Not applicable"
+    ],
+    "co_applicant_gender_list": [
+        "No co-applicant",
+        "Female",
+        "Information not provided by applicant in mail, Internet, or telephone application",
+        "Male",
+        "Not applicable"
+    ],
+    "purchaser_type_name_list": [
+        "Loan was not originated or was not sold in calendar year covered by register",
+        "Commercial bank, savings bank or savings association",
+        "Fannie Mae (FNMA)",
+        "Life insurance company, credit union, mortgage bank, or finance company",
+        "Freddie Mac (FHLMC)",
+        "Other type of purchaser",
+        "Affiliate institution",
+        "Private securitization"
+    ],
+    "hoepa_status_name_list": [
+        "Not a HOEPA loan",
+        "HOEPA loan"
+    ],
+    "lien_status_name_list": [
+        "Secured by a first lien",
+        "Secured by a subordinate lien"
+    ]
+}

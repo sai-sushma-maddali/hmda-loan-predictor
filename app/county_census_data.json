@@ -1,0 +1,4114 @@
+{
+    "Adams County_1": {
+        "population": 7855.0,
+        "minority_population": 51.97999954223633,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 77.31999969482422,
+        "number_of_owner_occupied_units": 1643.0,
+        "number_of_1_to_4_family_units": 2521.0
+    },
+    "Adams County_2": {
+        "population": 3847.0,
+        "minority_population": 83.77999877929688,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 73.41999816894531,
+        "number_of_owner_occupied_units": 1286.0,
+        "number_of_1_to_4_family_units": 1843.0
+    },
+    "Adams County_3": {
+        "population": 2303.0,
+        "minority_population": 98.0,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 55.380001068115234,
+        "number_of_owner_occupied_units": 478.0,
+        "number_of_1_to_4_family_units": 1164.0
+    },
+    "Adams County_4": {
+        "population": 2822.0,
+        "minority_population": 91.98999786376952,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 39.79999923706055,
+        "number_of_owner_occupied_units": 479.0,
+        "number_of_1_to_4_family_units": 1222.0
+    },
+    "Adams County_5": {
+        "population": 3418.0,
+        "minority_population": 65.55999755859375,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 71.1500015258789,
+        "number_of_owner_occupied_units": 860.0,
+        "number_of_1_to_4_family_units": 1464.0
+    },
+    "Adams County_6": {
+        "population": 2341.0,
+        "minority_population": 52.5,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 97.1500015258789,
+        "number_of_owner_occupied_units": 605.0,
+        "number_of_1_to_4_family_units": 1118.0
+    },
+    "Adams County_7": {
+        "population": 1696.0,
+        "minority_population": 43.630001068115234,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 102.25,
+        "number_of_owner_occupied_units": 447.0,
+        "number_of_1_to_4_family_units": 930.0
+    },
+    "Adams County_8": {
+        "population": 3716.0,
+        "minority_population": 65.33999633789062,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 81.94999694824219,
+        "number_of_owner_occupied_units": 762.0,
+        "number_of_1_to_4_family_units": 1540.0
+    },
+    "Adams County_9": {
+        "population": 3981.0,
+        "minority_population": 26.6299991607666,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 125.08999633789062,
+        "number_of_owner_occupied_units": 1171.0,
+        "number_of_1_to_4_family_units": 1690.0
+    },
+    "Alcorn County_9501": {
+        "population": 5676.0,
+        "minority_population": 5.289999961853027,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 113.12000274658205,
+        "number_of_owner_occupied_units": 1518.0,
+        "number_of_1_to_4_family_units": 2496.0
+    },
+    "Alcorn County_9502": {
+        "population": 7527.0,
+        "minority_population": 29.709999084472656,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 106.47000122070312,
+        "number_of_owner_occupied_units": 2165.0,
+        "number_of_1_to_4_family_units": 3194.0
+    },
+    "Alcorn County_9503": {
+        "population": 3450.0,
+        "minority_population": 19.299999237060547,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 98.29000091552734,
+        "number_of_owner_occupied_units": 751.0,
+        "number_of_1_to_4_family_units": 1685.0
+    },
+    "Alcorn County_9504": {
+        "population": 5464.0,
+        "minority_population": 1.4600000381469729,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 121.05999755859376,
+        "number_of_owner_occupied_units": 1638.0,
+        "number_of_1_to_4_family_units": 2391.0
+    },
+    "Alcorn County_9505": {
+        "population": 6582.0,
+        "minority_population": 35.2599983215332,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 83.01000213623047,
+        "number_of_owner_occupied_units": 1267.0,
+        "number_of_1_to_4_family_units": 3013.0
+    },
+    "Alcorn County_9506": {
+        "population": 4366.0,
+        "minority_population": 5.269999980926514,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 90.08999633789062,
+        "number_of_owner_occupied_units": 1388.0,
+        "number_of_1_to_4_family_units": 1872.0
+    },
+    "Alcorn County_9507": {
+        "population": 4254.0,
+        "minority_population": 9.920000076293944,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 96.37999725341795,
+        "number_of_owner_occupied_units": 1448.0,
+        "number_of_1_to_4_family_units": 1888.0
+    },
+    "Amite County_9501": {
+        "population": 4278.0,
+        "minority_population": 34.7400016784668,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 98.56999969482422,
+        "number_of_owner_occupied_units": 1390.0,
+        "number_of_1_to_4_family_units": 2200.0
+    },
+    "Amite County_9502": {
+        "population": 3706.0,
+        "minority_population": 41.63999938964844,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 72.41999816894531,
+        "number_of_owner_occupied_units": 1066.0,
+        "number_of_1_to_4_family_units": 1954.0
+    },
+    "Amite County_9503": {
+        "population": 4856.0,
+        "minority_population": 50.70000076293945,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 110.37999725341795,
+        "number_of_owner_occupied_units": 1745.0,
+        "number_of_1_to_4_family_units": 2471.0
+    },
+    "Attala County_601": {
+        "population": 3294.0,
+        "minority_population": 33.209999084472656,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 108.23999786376952,
+        "number_of_owner_occupied_units": 1008.0,
+        "number_of_1_to_4_family_units": 1629.0
+    },
+    "Attala County_602": {
+        "population": 2458.0,
+        "minority_population": 28.229999542236328,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 127.93000030517578,
+        "number_of_owner_occupied_units": 800.0,
+        "number_of_1_to_4_family_units": 1156.0
+    },
+    "Attala County_603": {
+        "population": 2845.0,
+        "minority_population": 61.83000183105469,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 83.1500015258789,
+        "number_of_owner_occupied_units": 978.0,
+        "number_of_1_to_4_family_units": 1777.0
+    },
+    "Attala County_604": {
+        "population": 3093.0,
+        "minority_population": 29.780000686645508,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 124.41999816894533,
+        "number_of_owner_occupied_units": 1105.0,
+        "number_of_1_to_4_family_units": 1396.0
+    },
+    "Attala County_605": {
+        "population": 3550.0,
+        "minority_population": 53.630001068115234,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 97.06999969482422,
+        "number_of_owner_occupied_units": 833.0,
+        "number_of_1_to_4_family_units": 1678.0
+    },
+    "Attala County_606": {
+        "population": 3935.0,
+        "minority_population": 57.130001068115234,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 59.02999877929688,
+        "number_of_owner_occupied_units": 654.0,
+        "number_of_1_to_4_family_units": 1041.0
+    },
+    "Benton County_9501": {
+        "population": 5687.0,
+        "minority_population": 49.81999969482422,
+        "hud_median_family_income": 59100.0,
+        "tract_to_msamd_income": 71.12000274658203,
+        "number_of_owner_occupied_units": 1841.0,
+        "number_of_1_to_4_family_units": 3053.0
+    },
+    "Benton County_9502": {
+        "population": 2783.0,
+        "minority_population": 19.21999931335449,
+        "hud_median_family_income": 59100.0,
+        "tract_to_msamd_income": 63.369998931884766,
+        "number_of_owner_occupied_units": 748.0,
+        "number_of_1_to_4_family_units": 1140.0
+    },
+    "Bolivar County_9501": {
+        "population": 3869.0,
+        "minority_population": 86.3499984741211,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 55.79999923706055,
+        "number_of_owner_occupied_units": 687.0,
+        "number_of_1_to_4_family_units": 1425.0
+    },
+    "Bolivar County_9502": {
+        "population": 2730.0,
+        "minority_population": 88.12999725341797,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 64.83000183105469,
+        "number_of_owner_occupied_units": 549.0,
+        "number_of_1_to_4_family_units": 1031.0
+    },
+    "Bolivar County_9503": {
+        "population": 3235.0,
+        "minority_population": 89.61000061035156,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 77.86000061035156,
+        "number_of_owner_occupied_units": 682.0,
+        "number_of_1_to_4_family_units": 1382.0
+    },
+    "Bolivar County_9504": {
+        "population": 4145.0,
+        "minority_population": 75.8499984741211,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 59.13999938964844,
+        "number_of_owner_occupied_units": 866.0,
+        "number_of_1_to_4_family_units": 1792.0
+    },
+    "Bolivar County_9505": {
+        "population": 5430.0,
+        "minority_population": 51.790000915527344,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 81.72000122070312,
+        "number_of_owner_occupied_units": 1281.0,
+        "number_of_1_to_4_family_units": 2016.0
+    },
+    "Bolivar County_9506": {
+        "population": 6194.0,
+        "minority_population": 11.850000381469728,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 168.49000549316406,
+        "number_of_owner_occupied_units": 1622.0,
+        "number_of_1_to_4_family_units": 2666.0
+    },
+    "Bolivar County_9507": {
+        "population": 3563.0,
+        "minority_population": 89.11000061035156,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 80.41999816894531,
+        "number_of_owner_occupied_units": 693.0,
+        "number_of_1_to_4_family_units": 1340.0
+    },
+    "Calhoun County_9501": {
+        "population": 3861.0,
+        "minority_population": 15.670000076293944,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 104.9499969482422,
+        "number_of_owner_occupied_units": 1274.0,
+        "number_of_1_to_4_family_units": 1859.0
+    },
+    "Calhoun County_9502": {
+        "population": 1541.0,
+        "minority_population": 44.0,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 84.12000274658203,
+        "number_of_owner_occupied_units": 400.0,
+        "number_of_1_to_4_family_units": 790.0
+    },
+    "Calhoun County_9503": {
+        "population": 3088.0,
+        "minority_population": 34.970001220703125,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 109.4800033569336,
+        "number_of_owner_occupied_units": 972.0,
+        "number_of_1_to_4_family_units": 1451.0
+    },
+    "Calhoun County_9504": {
+        "population": 3401.0,
+        "minority_population": 32.72999954223633,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 84.7699966430664,
+        "number_of_owner_occupied_units": 950.0,
+        "number_of_1_to_4_family_units": 1398.0
+    },
+    "Calhoun County_9505": {
+        "population": 2898.0,
+        "minority_population": 56.68999862670898,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 69.36000061035156,
+        "number_of_owner_occupied_units": 690.0,
+        "number_of_1_to_4_family_units": 1181.0
+    },
+    "Carroll County_9501": {
+        "population": 4967.0,
+        "minority_population": 20.739999771118164,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 107.45999908447266,
+        "number_of_owner_occupied_units": 1641.0,
+        "number_of_1_to_4_family_units": 2432.0
+    },
+    "Carroll County_9502": {
+        "population": 5371.0,
+        "minority_population": 49.130001068115234,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 116.81999969482422,
+        "number_of_owner_occupied_units": 1469.0,
+        "number_of_1_to_4_family_units": 2507.0
+    },
+    "Chickasaw County_9501": {
+        "population": 4201.0,
+        "minority_population": 70.12999725341797,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 69.68000030517578,
+        "number_of_owner_occupied_units": 1050.0,
+        "number_of_1_to_4_family_units": 1702.0
+    },
+    "Chickasaw County_9502": {
+        "population": 3474.0,
+        "minority_population": 31.200000762939453,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 91.79000091552734,
+        "number_of_owner_occupied_units": 1023.0,
+        "number_of_1_to_4_family_units": 1540.0
+    },
+    "Chickasaw County_9503": {
+        "population": 4440.0,
+        "minority_population": 59.08000183105469,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 77.5999984741211,
+        "number_of_owner_occupied_units": 940.0,
+        "number_of_1_to_4_family_units": 1495.0
+    },
+    "Chickasaw County_9504": {
+        "population": 5276.0,
+        "minority_population": 33.209999084472656,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 94.37999725341795,
+        "number_of_owner_occupied_units": 1759.0,
+        "number_of_1_to_4_family_units": 2393.0
+    },
+    "Choctaw County_9501": {
+        "population": 2683.0,
+        "minority_population": 8.420000076293945,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 112.43000030517578,
+        "number_of_owner_occupied_units": 901.0,
+        "number_of_1_to_4_family_units": 1339.0
+    },
+    "Choctaw County_9502": {
+        "population": 3840.0,
+        "minority_population": 42.91999816894531,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 93.08000183105467,
+        "number_of_owner_occupied_units": 1105.0,
+        "number_of_1_to_4_family_units": 1993.0
+    },
+    "Choctaw County_9503": {
+        "population": 1831.0,
+        "minority_population": 45.4900016784668,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 104.01000213623048,
+        "number_of_owner_occupied_units": 368.0,
+        "number_of_1_to_4_family_units": 671.0
+    },
+    "Claiborne County_9501": {
+        "population": 2994.0,
+        "minority_population": 79.43000030517578,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 81.95999908447266,
+        "number_of_owner_occupied_units": 817.0,
+        "number_of_1_to_4_family_units": 1552.0
+    },
+    "Claiborne County_9502": {
+        "population": 1487.0,
+        "minority_population": 90.5199966430664,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 46.68000030517578,
+        "number_of_owner_occupied_units": 299.0,
+        "number_of_1_to_4_family_units": 585.0
+    },
+    "Claiborne County_9503": {
+        "population": 4849.0,
+        "minority_population": 89.4000015258789,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 60.790000915527344,
+        "number_of_owner_occupied_units": 1114.0,
+        "number_of_1_to_4_family_units": 1829.0
+    },
+    "Clarke County_9501": {
+        "population": 4100.0,
+        "minority_population": 23.76000022888184,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 129.00999450683594,
+        "number_of_owner_occupied_units": 1546.0,
+        "number_of_1_to_4_family_units": 2105.0
+    },
+    "Clarke County_9502": {
+        "population": 5874.0,
+        "minority_population": 26.3700008392334,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 114.83000183105467,
+        "number_of_owner_occupied_units": 1861.0,
+        "number_of_1_to_4_family_units": 2710.0
+    },
+    "Clarke County_9503": {
+        "population": 3580.0,
+        "minority_population": 70.52999877929688,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 73.04000091552734,
+        "number_of_owner_occupied_units": 1105.0,
+        "number_of_1_to_4_family_units": 1741.0
+    },
+    "Clarke County_9504": {
+        "population": 2808.0,
+        "minority_population": 32.40999984741211,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 95.0,
+        "number_of_owner_occupied_units": 822.0,
+        "number_of_1_to_4_family_units": 1170.0
+    },
+    "Clay County_9501": {
+        "population": 5518.0,
+        "minority_population": 50.25,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 110.83000183105467,
+        "number_of_owner_occupied_units": 1498.0,
+        "number_of_1_to_4_family_units": 2272.0
+    },
+    "Clay County_9502": {
+        "population": 2332.0,
+        "minority_population": 57.119998931884766,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 83.02999877929688,
+        "number_of_owner_occupied_units": 742.0,
+        "number_of_1_to_4_family_units": 1112.0
+    },
+    "Clay County_9503": {
+        "population": 3801.0,
+        "minority_population": 79.01000213623047,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 61.27999877929688,
+        "number_of_owner_occupied_units": 690.0,
+        "number_of_1_to_4_family_units": 1446.0
+    },
+    "Clay County_9504": {
+        "population": 4883.0,
+        "minority_population": 63.220001220703125,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 79.16000366210938,
+        "number_of_owner_occupied_units": 1035.0,
+        "number_of_1_to_4_family_units": 1998.0
+    },
+    "Clay County_9505": {
+        "population": 3745.0,
+        "minority_population": 55.02999877929688,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 130.4199981689453,
+        "number_of_owner_occupied_units": 1468.0,
+        "number_of_1_to_4_family_units": 1990.0
+    },
+    "Coahoma County_9501": {
+        "population": 3713.0,
+        "minority_population": 83.05999755859375,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 63.25,
+        "number_of_owner_occupied_units": 814.0,
+        "number_of_1_to_4_family_units": 1415.0
+    },
+    "Coahoma County_9502": {
+        "population": 2748.0,
+        "minority_population": 53.56999969482422,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 117.94000244140624,
+        "number_of_owner_occupied_units": 761.0,
+        "number_of_1_to_4_family_units": 980.0
+    },
+    "Coahoma County_9503": {
+        "population": 3216.0,
+        "minority_population": 67.66000366210938,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 83.06999969482422,
+        "number_of_owner_occupied_units": 605.0,
+        "number_of_1_to_4_family_units": 1255.0
+    },
+    "Coahoma County_9504": {
+        "population": 3794.0,
+        "minority_population": 54.959999084472656,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 133.16000366210938,
+        "number_of_owner_occupied_units": 882.0,
+        "number_of_1_to_4_family_units": 1568.0
+    },
+    "Coahoma County_9505": {
+        "population": 5538.0,
+        "minority_population": 82.94999694824219,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 65.6500015258789,
+        "number_of_owner_occupied_units": 927.0,
+        "number_of_1_to_4_family_units": 1746.0
+    },
+    "Coahoma County_9506": {
+        "population": 1148.0,
+        "minority_population": 98.9499969482422,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 58.790000915527344,
+        "number_of_owner_occupied_units": 208.0,
+        "number_of_1_to_4_family_units": 575.0
+    },
+    "Copiah County_9501": {
+        "population": 6160.0,
+        "minority_population": 68.08000183105469,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 72.83000183105469,
+        "number_of_owner_occupied_units": 1264.0,
+        "number_of_1_to_4_family_units": 2251.0
+    },
+    "Copiah County_9502": {
+        "population": 4474.0,
+        "minority_population": 38.79999923706055,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 63.27999877929688,
+        "number_of_owner_occupied_units": 1496.0,
+        "number_of_1_to_4_family_units": 2121.0
+    },
+    "Copiah County_9503": {
+        "population": 4289.0,
+        "minority_population": 58.91999816894531,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 73.61000061035156,
+        "number_of_owner_occupied_units": 1388.0,
+        "number_of_1_to_4_family_units": 1883.0
+    },
+    "Copiah County_9504": {
+        "population": 4933.0,
+        "minority_population": 84.30999755859375,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 69.58000183105469,
+        "number_of_owner_occupied_units": 925.0,
+        "number_of_1_to_4_family_units": 1809.0
+    },
+    "Copiah County_9505": {
+        "population": 5931.0,
+        "minority_population": 27.14999961853028,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 118.68000030517578,
+        "number_of_owner_occupied_units": 1583.0,
+        "number_of_1_to_4_family_units": 2374.0
+    },
+    "Copiah County_9506": {
+        "population": 3134.0,
+        "minority_population": 51.84999847412109,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 63.43000030517578,
+        "number_of_owner_occupied_units": 954.0,
+        "number_of_1_to_4_family_units": 1499.0
+    },
+    "Covington County_9501": {
+        "population": 5459.0,
+        "minority_population": 60.22999954223633,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 96.4000015258789,
+        "number_of_owner_occupied_units": 1590.0,
+        "number_of_1_to_4_family_units": 2132.0
+    },
+    "Covington County_9502": {
+        "population": 1950.0,
+        "minority_population": 59.02999877929688,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 86.41999816894531,
+        "number_of_owner_occupied_units": 464.0,
+        "number_of_1_to_4_family_units": 816.0
+    },
+    "Covington County_9503": {
+        "population": 5067.0,
+        "minority_population": 45.88999938964844,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 94.48999786376952,
+        "number_of_owner_occupied_units": 1356.0,
+        "number_of_1_to_4_family_units": 2146.0
+    },
+    "Covington County_9504": {
+        "population": 6995.0,
+        "minority_population": 11.010000228881836,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 93.6999969482422,
+        "number_of_owner_occupied_units": 2197.0,
+        "number_of_1_to_4_family_units": 3302.0
+    },
+    "DeSoto County_701": {
+        "population": 4290.0,
+        "minority_population": 33.91999816894531,
+        "hud_median_family_income": 59100.0,
+        "tract_to_msamd_income": 127.7699966430664,
+        "number_of_owner_occupied_units": 1268.0,
+        "number_of_1_to_4_family_units": 1543.0
+    },
+    "DeSoto County_702": {
+        "population": 4169.0,
+        "minority_population": 39.16999816894531,
+        "hud_median_family_income": 59100.0,
+        "tract_to_msamd_income": 105.8000030517578,
+        "number_of_owner_occupied_units": 759.0,
+        "number_of_1_to_4_family_units": 1018.0
+    },
+    "DeSoto County_703": {
+        "population": 3034.0,
+        "minority_population": 35.65999984741211,
+        "hud_median_family_income": 59100.0,
+        "tract_to_msamd_income": 62.88999938964844,
+        "number_of_owner_occupied_units": 524.0,
+        "number_of_1_to_4_family_units": 1134.0
+    },
+    "DeSoto County_704": {
+        "population": 2563.0,
+        "minority_population": 24.57999992370605,
+        "hud_median_family_income": 59100.0,
+        "tract_to_msamd_income": 84.45999908447266,
+        "number_of_owner_occupied_units": 581.0,
+        "number_of_1_to_4_family_units": 874.0
+    },
+    "DeSoto County_705": {
+        "population": 4189.0,
+        "minority_population": 24.489999771118164,
+        "hud_median_family_income": 59100.0,
+        "tract_to_msamd_income": 113.0999984741211,
+        "number_of_owner_occupied_units": 982.0,
+        "number_of_1_to_4_family_units": 1366.0
+    },
+    "DeSoto County_706": {
+        "population": 10294.0,
+        "minority_population": 22.229999542236328,
+        "hud_median_family_income": 59100.0,
+        "tract_to_msamd_income": 171.2100067138672,
+        "number_of_owner_occupied_units": 3231.0,
+        "number_of_1_to_4_family_units": 3682.0
+    },
+    "DeSoto County_707": {
+        "population": 5255.0,
+        "minority_population": 10.600000381469728,
+        "hud_median_family_income": 59100.0,
+        "tract_to_msamd_income": 147.61000061035156,
+        "number_of_owner_occupied_units": 1509.0,
+        "number_of_1_to_4_family_units": 1648.0
+    },
+    "DeSoto County_708": {
+        "population": 6028.0,
+        "minority_population": 40.4900016784668,
+        "hud_median_family_income": 59100.0,
+        "tract_to_msamd_income": 138.6199951171875,
+        "number_of_owner_occupied_units": 1745.0,
+        "number_of_1_to_4_family_units": 1992.0
+    },
+    "DeSoto County_709": {
+        "population": 4340.0,
+        "minority_population": 21.770000457763672,
+        "hud_median_family_income": 59100.0,
+        "tract_to_msamd_income": 119.86000061035156,
+        "number_of_owner_occupied_units": 1293.0,
+        "number_of_1_to_4_family_units": 1551.0
+    },
+    "DeSoto County_710": {
+        "population": 9328.0,
+        "minority_population": 10.010000228881836,
+        "hud_median_family_income": 59100.0,
+        "tract_to_msamd_income": 163.41000366210938,
+        "number_of_owner_occupied_units": 3118.0,
+        "number_of_1_to_4_family_units": 3490.0
+    },
+    "DeSoto County_711": {
+        "population": 6951.0,
+        "minority_population": 25.520000457763672,
+        "hud_median_family_income": 59100.0,
+        "tract_to_msamd_income": 112.91999816894533,
+        "number_of_owner_occupied_units": 1659.0,
+        "number_of_1_to_4_family_units": 2281.0
+    },
+    "DeSoto County_712": {
+        "population": 3499.0,
+        "minority_population": 15.600000381469728,
+        "hud_median_family_income": 59100.0,
+        "tract_to_msamd_income": 86.9000015258789,
+        "number_of_owner_occupied_units": 937.0,
+        "number_of_1_to_4_family_units": 1319.0
+    },
+    "Forrest County_2": {
+        "population": 2895.0,
+        "minority_population": 44.52999877929688,
+        "hud_median_family_income": 51600.0,
+        "tract_to_msamd_income": 116.93000030517578,
+        "number_of_owner_occupied_units": 617.0,
+        "number_of_1_to_4_family_units": 1206.0
+    },
+    "Forrest County_3": {
+        "population": 3789.0,
+        "minority_population": 74.93000030517578,
+        "hud_median_family_income": 51600.0,
+        "tract_to_msamd_income": 84.25,
+        "number_of_owner_occupied_units": 630.0,
+        "number_of_1_to_4_family_units": 1385.0
+    },
+    "Forrest County_5": {
+        "population": 1503.0,
+        "minority_population": 84.83000183105469,
+        "hud_median_family_income": 51600.0,
+        "tract_to_msamd_income": 55.650001525878906,
+        "number_of_owner_occupied_units": 269.0,
+        "number_of_1_to_4_family_units": 546.0
+    },
+    "Forrest County_6": {
+        "population": 7259.0,
+        "minority_population": 93.58000183105467,
+        "hud_median_family_income": 51600.0,
+        "tract_to_msamd_income": 48.41999816894531,
+        "number_of_owner_occupied_units": 675.0,
+        "number_of_1_to_4_family_units": 1884.0
+    },
+    "Forrest County_7": {
+        "population": 2929.0,
+        "minority_population": 24.51000022888184,
+        "hud_median_family_income": 51600.0,
+        "tract_to_msamd_income": 105.2699966430664,
+        "number_of_owner_occupied_units": 693.0,
+        "number_of_1_to_4_family_units": 1305.0
+    },
+    "Forrest County_8": {
+        "population": 5509.0,
+        "minority_population": 25.61000061035156,
+        "hud_median_family_income": 51600.0,
+        "tract_to_msamd_income": 105.37999725341795,
+        "number_of_owner_occupied_units": 1537.0,
+        "number_of_1_to_4_family_units": 2065.0
+    },
+    "Forrest County_9": {
+        "population": 4041.0,
+        "minority_population": 49.27000045776367,
+        "hud_median_family_income": 51600.0,
+        "tract_to_msamd_income": 37.540000915527344,
+        "number_of_owner_occupied_units": 12.0,
+        "number_of_1_to_4_family_units": 253.0
+    },
+    "Forrest County_10": {
+        "population": 4318.0,
+        "minority_population": 51.59999847412109,
+        "hud_median_family_income": 51600.0,
+        "tract_to_msamd_income": 39.15999984741211,
+        "number_of_owner_occupied_units": 284.0,
+        "number_of_1_to_4_family_units": 1256.0
+    },
+    "Forrest County_11": {
+        "population": 3810.0,
+        "minority_population": 78.5,
+        "hud_median_family_income": 51600.0,
+        "tract_to_msamd_income": 51.52000045776367,
+        "number_of_owner_occupied_units": 409.0,
+        "number_of_1_to_4_family_units": 1174.0
+    },
+    "Forrest County_101": {
+        "population": 6143.0,
+        "minority_population": 6.710000038146973,
+        "hud_median_family_income": 51600.0,
+        "tract_to_msamd_income": 118.26000213623048,
+        "number_of_owner_occupied_units": 1557.0,
+        "number_of_1_to_4_family_units": 2159.0
+    },
+    "Forrest County_102": {
+        "population": 6824.0,
+        "minority_population": 42.25,
+        "hud_median_family_income": 51600.0,
+        "tract_to_msamd_income": 91.66000366210938,
+        "number_of_owner_occupied_units": 1691.0,
+        "number_of_1_to_4_family_units": 2599.0
+    },
+    "Forrest County_103": {
+        "population": 3933.0,
+        "minority_population": 28.600000381469727,
+        "hud_median_family_income": 51600.0,
+        "tract_to_msamd_income": 103.16999816894533,
+        "number_of_owner_occupied_units": 871.0,
+        "number_of_1_to_4_family_units": 1566.0
+    },
+    "Forrest County_104": {
+        "population": 3392.0,
+        "minority_population": 22.200000762939453,
+        "hud_median_family_income": 51600.0,
+        "tract_to_msamd_income": 99.0,
+        "number_of_owner_occupied_units": 838.0,
+        "number_of_1_to_4_family_units": 1655.0
+    },
+    "Forrest County_105": {
+        "population": 3857.0,
+        "minority_population": 61.68000030517578,
+        "hud_median_family_income": 51600.0,
+        "tract_to_msamd_income": 55.70000076293945,
+        "number_of_owner_occupied_units": 992.0,
+        "number_of_1_to_4_family_units": 1594.0
+    },
+    "Forrest County_106": {
+        "population": 8258.0,
+        "minority_population": 6.389999866485596,
+        "hud_median_family_income": 51600.0,
+        "tract_to_msamd_income": 98.06999969482422,
+        "number_of_owner_occupied_units": 2305.0,
+        "number_of_1_to_4_family_units": 3214.0
+    },
+    "Forrest County_107": {
+        "population": 1641.0,
+        "minority_population": 92.56999969482422,
+        "hud_median_family_income": 51600.0,
+        "tract_to_msamd_income": 27.450000762939453,
+        "number_of_owner_occupied_units": 382.0,
+        "number_of_1_to_4_family_units": 835.0
+    },
+    "Franklin County_9501": {
+        "population": 5273.0,
+        "minority_population": 26.780000686645508,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 117.18000030517578,
+        "number_of_owner_occupied_units": 1659.0,
+        "number_of_1_to_4_family_units": 2741.0
+    },
+    "Franklin County_9502": {
+        "population": 2584.0,
+        "minority_population": 57.27999877929688,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 133.9499969482422,
+        "number_of_owner_occupied_units": 828.0,
+        "number_of_1_to_4_family_units": 1385.0
+    },
+    "George County_9501": {
+        "population": 4730.0,
+        "minority_population": 9.770000457763672,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 117.2699966430664,
+        "number_of_owner_occupied_units": 1367.0,
+        "number_of_1_to_4_family_units": 1883.0
+    },
+    "George County_9502": {
+        "population": 2995.0,
+        "minority_population": 35.7599983215332,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 120.9800033569336,
+        "number_of_owner_occupied_units": 498.0,
+        "number_of_1_to_4_family_units": 976.0
+    },
+    "George County_9503": {
+        "population": 2762.0,
+        "minority_population": 7.570000171661377,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 140.83999633789062,
+        "number_of_owner_occupied_units": 826.0,
+        "number_of_1_to_4_family_units": 1170.0
+    },
+    "Greene County_9501": {
+        "population": 7836.0,
+        "minority_population": 35.72999954223633,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 121.9800033569336,
+        "number_of_owner_occupied_units": 1555.0,
+        "number_of_1_to_4_family_units": 2176.0
+    },
+    "Greene County_9502": {
+        "population": 6293.0,
+        "minority_population": 19.81999969482422,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 128.08999633789062,
+        "number_of_owner_occupied_units": 1830.0,
+        "number_of_1_to_4_family_units": 2833.0
+    },
+    "Grenada County_9501": {
+        "population": 6272.0,
+        "minority_population": 34.38999938964844,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 100.4499969482422,
+        "number_of_owner_occupied_units": 1840.0,
+        "number_of_1_to_4_family_units": 2771.0
+    },
+    "Grenada County_9502": {
+        "population": 4843.0,
+        "minority_population": 29.8799991607666,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 128.05999755859375,
+        "number_of_owner_occupied_units": 1389.0,
+        "number_of_1_to_4_family_units": 2368.0
+    },
+    "Grenada County_9503": {
+        "population": 2870.0,
+        "minority_population": 85.81999969482422,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 64.08999633789062,
+        "number_of_owner_occupied_units": 475.0,
+        "number_of_1_to_4_family_units": 1041.0
+    },
+    "Grenada County_9504": {
+        "population": 2782.0,
+        "minority_population": 82.05999755859375,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 71.5,
+        "number_of_owner_occupied_units": 484.0,
+        "number_of_1_to_4_family_units": 1193.0
+    },
+    "Grenada County_9505": {
+        "population": 4824.0,
+        "minority_population": 26.1200008392334,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 121.8000030517578,
+        "number_of_owner_occupied_units": 1268.0,
+        "number_of_1_to_4_family_units": 2187.0
+    },
+    "Hancock County_301": {
+        "population": 4697.0,
+        "minority_population": 17.389999389648438,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 81.33000183105469,
+        "number_of_owner_occupied_units": 1489.0,
+        "number_of_1_to_4_family_units": 2683.0
+    },
+    "Hancock County_302": {
+        "population": 5712.0,
+        "minority_population": 18.559999465942383,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 83.3499984741211,
+        "number_of_owner_occupied_units": 1411.0,
+        "number_of_1_to_4_family_units": 2420.0
+    },
+    "Hancock County_303": {
+        "population": 10514.0,
+        "minority_population": 21.40999984741211,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 75.13999938964844,
+        "number_of_owner_occupied_units": 2159.0,
+        "number_of_1_to_4_family_units": 4503.0
+    },
+    "Hancock County_304": {
+        "population": 2482.0,
+        "minority_population": 24.5,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 92.23999786376952,
+        "number_of_owner_occupied_units": 891.0,
+        "number_of_1_to_4_family_units": 1208.0
+    },
+    "Hancock County_305": {
+        "population": 8359.0,
+        "minority_population": 7.269999980926514,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 138.89999389648438,
+        "number_of_owner_occupied_units": 2828.0,
+        "number_of_1_to_4_family_units": 3867.0
+    },
+    "Hancock County_306": {
+        "population": 6238.0,
+        "minority_population": 13.270000457763672,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 117.56999969482422,
+        "number_of_owner_occupied_units": 2170.0,
+        "number_of_1_to_4_family_units": 3149.0
+    },
+    "Harrison County_3": {
+        "population": 2030.0,
+        "minority_population": 85.5199966430664,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 42.36000061035156,
+        "number_of_owner_occupied_units": 339.0,
+        "number_of_1_to_4_family_units": 871.0
+    },
+    "Harrison County_6": {
+        "population": 1207.0,
+        "minority_population": 13.010000228881836,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 119.33999633789062,
+        "number_of_owner_occupied_units": 347.0,
+        "number_of_1_to_4_family_units": 744.0
+    },
+    "Harrison County_9": {
+        "population": 3625.0,
+        "minority_population": 36.7400016784668,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 123.77999877929688,
+        "number_of_owner_occupied_units": 0.0,
+        "number_of_1_to_4_family_units": 286.0
+    },
+    "Harrison County_12": {
+        "population": 6121.0,
+        "minority_population": 45.959999084472656,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 89.29000091552734,
+        "number_of_owner_occupied_units": 886.0,
+        "number_of_1_to_4_family_units": 1766.0
+    },
+    "Harrison County_13": {
+        "population": 2797.0,
+        "minority_population": 48.43999862670898,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 77.05000305175781,
+        "number_of_owner_occupied_units": 292.0,
+        "number_of_1_to_4_family_units": 653.0
+    },
+    "Harrison County_14": {
+        "population": 1934.0,
+        "minority_population": 22.38999938964844,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 96.5,
+        "number_of_owner_occupied_units": 386.0,
+        "number_of_1_to_4_family_units": 784.0
+    },
+    "Harrison County_15": {
+        "population": 5218.0,
+        "minority_population": 37.4900016784668,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 114.91999816894533,
+        "number_of_owner_occupied_units": 862.0,
+        "number_of_1_to_4_family_units": 1427.0
+    },
+    "Harrison County_16": {
+        "population": 3331.0,
+        "minority_population": 6.480000019073486,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 154.92999267578125,
+        "number_of_owner_occupied_units": 1164.0,
+        "number_of_1_to_4_family_units": 1587.0
+    },
+    "Harrison County_17": {
+        "population": 5464.0,
+        "minority_population": 41.220001220703125,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 86.81999969482422,
+        "number_of_owner_occupied_units": 1005.0,
+        "number_of_1_to_4_family_units": 1858.0
+    },
+    "Harrison County_18": {
+        "population": 2500.0,
+        "minority_population": 88.0,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 43.18000030517578,
+        "number_of_owner_occupied_units": 374.0,
+        "number_of_1_to_4_family_units": 969.0
+    },
+    "Harrison County_19": {
+        "population": 2999.0,
+        "minority_population": 43.77999877929688,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 85.81999969482422,
+        "number_of_owner_occupied_units": 774.0,
+        "number_of_1_to_4_family_units": 1363.0
+    },
+    "Harrison County_20": {
+        "population": 3346.0,
+        "minority_population": 54.93000030517578,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 42.88999938964844,
+        "number_of_owner_occupied_units": 356.0,
+        "number_of_1_to_4_family_units": 1312.0
+    },
+    "Harrison County_23": {
+        "population": 2046.0,
+        "minority_population": 68.62000274658203,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 48.36000061035156,
+        "number_of_owner_occupied_units": 395.0,
+        "number_of_1_to_4_family_units": 943.0
+    },
+    "Harrison County_24": {
+        "population": 3928.0,
+        "minority_population": 87.19000244140625,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 32.459999084472656,
+        "number_of_owner_occupied_units": 589.0,
+        "number_of_1_to_4_family_units": 1432.0
+    },
+    "Harrison County_26": {
+        "population": 3534.0,
+        "minority_population": 75.69000244140625,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 40.560001373291016,
+        "number_of_owner_occupied_units": 504.0,
+        "number_of_1_to_4_family_units": 1261.0
+    },
+    "Harrison County_27": {
+        "population": 5843.0,
+        "minority_population": 23.530000686645508,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 118.62999725341795,
+        "number_of_owner_occupied_units": 1506.0,
+        "number_of_1_to_4_family_units": 2313.0
+    },
+    "Harrison County_28": {
+        "population": 2513.0,
+        "minority_population": 16.469999313354492,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 120.22000122070312,
+        "number_of_owner_occupied_units": 545.0,
+        "number_of_1_to_4_family_units": 942.0
+    },
+    "Harrison County_29": {
+        "population": 1411.0,
+        "minority_population": 24.030000686645508,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 153.74000549316406,
+        "number_of_owner_occupied_units": 542.0,
+        "number_of_1_to_4_family_units": 789.0
+    },
+    "Harrison County_30": {
+        "population": 3692.0,
+        "minority_population": 38.56999969482422,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 85.0199966430664,
+        "number_of_owner_occupied_units": 830.0,
+        "number_of_1_to_4_family_units": 1736.0
+    },
+    "Harrison County_31": {
+        "population": 7419.0,
+        "minority_population": 17.290000915527344,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 113.5999984741211,
+        "number_of_owner_occupied_units": 2273.0,
+        "number_of_1_to_4_family_units": 2629.0
+    },
+    "Harrison County_32": {
+        "population": 4387.0,
+        "minority_population": 55.59999847412109,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 67.63999938964844,
+        "number_of_owner_occupied_units": 761.0,
+        "number_of_1_to_4_family_units": 1266.0
+    },
+    "Harrison County_33": {
+        "population": 4196.0,
+        "minority_population": 30.38999938964844,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 111.75,
+        "number_of_owner_occupied_units": 1306.0,
+        "number_of_1_to_4_family_units": 1672.0
+    },
+    "Harrison County_34": {
+        "population": 5127.0,
+        "minority_population": 6.159999847412109,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 108.41000366210938,
+        "number_of_owner_occupied_units": 1689.0,
+        "number_of_1_to_4_family_units": 2098.0
+    },
+    "Harrison County_35": {
+        "population": 7597.0,
+        "minority_population": 32.720001220703125,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 109.23999786376952,
+        "number_of_owner_occupied_units": 2046.0,
+        "number_of_1_to_4_family_units": 2866.0
+    },
+    "Harrison County_36": {
+        "population": 1064.0,
+        "minority_population": 71.23999786376953,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 71.62999725341797,
+        "number_of_owner_occupied_units": 191.0,
+        "number_of_1_to_4_family_units": 540.0
+    },
+    "Harrison County_37": {
+        "population": 3273.0,
+        "minority_population": 48.400001525878906,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 50.59000015258789,
+        "number_of_owner_occupied_units": 463.0,
+        "number_of_1_to_4_family_units": 1252.0
+    },
+    "Harrison County_38": {
+        "population": 1255.0,
+        "minority_population": 31.239999771118164,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 81.83999633789062,
+        "number_of_owner_occupied_units": 350.0,
+        "number_of_1_to_4_family_units": 712.0
+    },
+    "Harrison County_39": {
+        "population": 3314.0,
+        "minority_population": 43.720001220703125,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 71.44999694824219,
+        "number_of_owner_occupied_units": 628.0,
+        "number_of_1_to_4_family_units": 1462.0
+    },
+    "Hinds County_1": {
+        "population": 4809.0,
+        "minority_population": 40.93999862670898,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 127.30999755859376,
+        "number_of_owner_occupied_units": 1603.0,
+        "number_of_1_to_4_family_units": 1940.0
+    },
+    "Hinds County_2": {
+        "population": 5381.0,
+        "minority_population": 25.5,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 160.99000549316406,
+        "number_of_owner_occupied_units": 1609.0,
+        "number_of_1_to_4_family_units": 2080.0
+    },
+    "Hinds County_3": {
+        "population": 4129.0,
+        "minority_population": 93.81999969482422,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 53.310001373291016,
+        "number_of_owner_occupied_units": 470.0,
+        "number_of_1_to_4_family_units": 1001.0
+    },
+    "Hinds County_4": {
+        "population": 3209.0,
+        "minority_population": 64.97000122070312,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 94.4499969482422,
+        "number_of_owner_occupied_units": 718.0,
+        "number_of_1_to_4_family_units": 1169.0
+    },
+    "Hinds County_5": {
+        "population": 6431.0,
+        "minority_population": 99.20999908447266,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 63.869998931884766,
+        "number_of_owner_occupied_units": 1192.0,
+        "number_of_1_to_4_family_units": 2146.0
+    },
+    "Hinds County_7": {
+        "population": 6195.0,
+        "minority_population": 95.58999633789062,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 61.27000045776367,
+        "number_of_owner_occupied_units": 984.0,
+        "number_of_1_to_4_family_units": 2005.0
+    },
+    "Hinds County_8": {
+        "population": 4081.0,
+        "minority_population": 99.38999938964844,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 30.229999542236328,
+        "number_of_owner_occupied_units": 757.0,
+        "number_of_1_to_4_family_units": 1466.0
+    },
+    "Hinds County_10": {
+        "population": 1622.0,
+        "minority_population": 100.0,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 47.9900016784668,
+        "number_of_owner_occupied_units": 406.0,
+        "number_of_1_to_4_family_units": 802.0
+    },
+    "Hinds County_12": {
+        "population": 2045.0,
+        "minority_population": 99.51000213623048,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 50.20000076293945,
+        "number_of_owner_occupied_units": 326.0,
+        "number_of_1_to_4_family_units": 826.0
+    },
+    "Hinds County_13": {
+        "population": 3631.0,
+        "minority_population": 29.46999931335449,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 129.47999572753906,
+        "number_of_owner_occupied_units": 808.0,
+        "number_of_1_to_4_family_units": 1927.0
+    },
+    "Hinds County_14": {
+        "population": 2734.0,
+        "minority_population": 9.0,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 276.2699890136719,
+        "number_of_owner_occupied_units": 1020.0,
+        "number_of_1_to_4_family_units": 1353.0
+    },
+    "Hinds County_15": {
+        "population": 3395.0,
+        "minority_population": 15.520000457763672,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 168.05999755859375,
+        "number_of_owner_occupied_units": 795.0,
+        "number_of_1_to_4_family_units": 1388.0
+    },
+    "Hinds County_16": {
+        "population": 3853.0,
+        "minority_population": 66.18000030517578,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 69.06999969482422,
+        "number_of_owner_occupied_units": 183.0,
+        "number_of_1_to_4_family_units": 751.0
+    },
+    "Hinds County_22": {
+        "population": 2237.0,
+        "minority_population": 93.16000366210938,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 33.41999816894531,
+        "number_of_owner_occupied_units": 388.0,
+        "number_of_1_to_4_family_units": 1063.0
+    },
+    "Hinds County_23": {
+        "population": 2837.0,
+        "minority_population": 96.72000122070312,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 35.040000915527344,
+        "number_of_owner_occupied_units": 291.0,
+        "number_of_1_to_4_family_units": 776.0
+    },
+    "Hinds County_24": {
+        "population": 4237.0,
+        "minority_population": 99.58000183105467,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 64.58999633789062,
+        "number_of_owner_occupied_units": 726.0,
+        "number_of_1_to_4_family_units": 1702.0
+    },
+    "Hinds County_25": {
+        "population": 2177.0,
+        "minority_population": 98.38999938964844,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 59.959999084472656,
+        "number_of_owner_occupied_units": 325.0,
+        "number_of_1_to_4_family_units": 914.0
+    },
+    "Hinds County_32": {
+        "population": 1305.0,
+        "minority_population": 98.6999969482422,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 46.290000915527344,
+        "number_of_owner_occupied_units": 158.0,
+        "number_of_1_to_4_family_units": 620.0
+    },
+    "Hinds County_33": {
+        "population": 6891.0,
+        "minority_population": 90.4499969482422,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 51.70000076293945,
+        "number_of_owner_occupied_units": 1052.0,
+        "number_of_1_to_4_family_units": 1896.0
+    },
+    "Hinds County_34": {
+        "population": 3235.0,
+        "minority_population": 91.44000244140624,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 39.20000076293945,
+        "number_of_owner_occupied_units": 454.0,
+        "number_of_1_to_4_family_units": 1175.0
+    },
+    "Hinds County_35": {
+        "population": 3832.0,
+        "minority_population": 92.06999969482422,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 45.619998931884766,
+        "number_of_owner_occupied_units": 362.0,
+        "number_of_1_to_4_family_units": 1126.0
+    },
+    "Hinds County_36": {
+        "population": 3981.0,
+        "minority_population": 93.37000274658205,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 63.04999923706055,
+        "number_of_owner_occupied_units": 860.0,
+        "number_of_1_to_4_family_units": 1471.0
+    },
+    "Hinds County_37": {
+        "population": 3482.0,
+        "minority_population": 87.16000366210938,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 54.56999969482422,
+        "number_of_owner_occupied_units": 451.0,
+        "number_of_1_to_4_family_units": 1073.0
+    },
+    "Hinds County_101": {
+        "population": 5666.0,
+        "minority_population": 69.54000091552734,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 96.4499969482422,
+        "number_of_owner_occupied_units": 1218.0,
+        "number_of_1_to_4_family_units": 1712.0
+    },
+    "Hinds County_102": {
+        "population": 2938.0,
+        "minority_population": 96.43000030517578,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 64.66000366210938,
+        "number_of_owner_occupied_units": 604.0,
+        "number_of_1_to_4_family_units": 839.0
+    },
+    "Hinds County_103": {
+        "population": 3582.0,
+        "minority_population": 51.09000015258789,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 75.66000366210938,
+        "number_of_owner_occupied_units": 712.0,
+        "number_of_1_to_4_family_units": 1138.0
+    },
+    "Hinds County_104": {
+        "population": 3769.0,
+        "minority_population": 36.11000061035156,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 104.9000015258789,
+        "number_of_owner_occupied_units": 823.0,
+        "number_of_1_to_4_family_units": 1326.0
+    },
+    "Hinds County_105": {
+        "population": 7888.0,
+        "minority_population": 58.08000183105469,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 112.13999938964844,
+        "number_of_owner_occupied_units": 2091.0,
+        "number_of_1_to_4_family_units": 2992.0
+    },
+    "Hinds County_106": {
+        "population": 5174.0,
+        "minority_population": 77.7300033569336,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 82.5999984741211,
+        "number_of_owner_occupied_units": 1380.0,
+        "number_of_1_to_4_family_units": 2001.0
+    },
+    "Hinds County_107": {
+        "population": 6900.0,
+        "minority_population": 41.27999877929688,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 130.9600067138672,
+        "number_of_owner_occupied_units": 1724.0,
+        "number_of_1_to_4_family_units": 2135.0
+    },
+    "Hinds County_108": {
+        "population": 2871.0,
+        "minority_population": 89.62000274658203,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 111.02999877929688,
+        "number_of_owner_occupied_units": 939.0,
+        "number_of_1_to_4_family_units": 1129.0
+    },
+    "Hinds County_109": {
+        "population": 1831.0,
+        "minority_population": 92.3000030517578,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 41.650001525878906,
+        "number_of_owner_occupied_units": 402.0,
+        "number_of_1_to_4_family_units": 760.0
+    },
+    "Hinds County_110": {
+        "population": 4809.0,
+        "minority_population": 90.05999755859375,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 68.51000213623047,
+        "number_of_owner_occupied_units": 645.0,
+        "number_of_1_to_4_family_units": 1478.0
+    },
+    "Hinds County_111": {
+        "population": 6129.0,
+        "minority_population": 67.20999908447266,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 114.8499984741211,
+        "number_of_owner_occupied_units": 1778.0,
+        "number_of_1_to_4_family_units": 2147.0
+    },
+    "Hinds County_112": {
+        "population": 8909.0,
+        "minority_population": 49.310001373291016,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 112.94000244140624,
+        "number_of_owner_occupied_units": 2805.0,
+        "number_of_1_to_4_family_units": 3506.0
+    },
+    "Hinds County_113": {
+        "population": 4262.0,
+        "minority_population": 59.38999938964844,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 95.2300033569336,
+        "number_of_owner_occupied_units": 1281.0,
+        "number_of_1_to_4_family_units": 1868.0
+    },
+    "Holmes County_9501": {
+        "population": 4528.0,
+        "minority_population": 80.80999755859375,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 64.4800033569336,
+        "number_of_owner_occupied_units": 953.0,
+        "number_of_1_to_4_family_units": 1888.0
+    },
+    "Holmes County_9502": {
+        "population": 3830.0,
+        "minority_population": 84.18000030517578,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 51.93999862670898,
+        "number_of_owner_occupied_units": 983.0,
+        "number_of_1_to_4_family_units": 1969.0
+    },
+    "Holmes County_9503": {
+        "population": 2589.0,
+        "minority_population": 92.08000183105467,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 33.68000030517578,
+        "number_of_owner_occupied_units": 476.0,
+        "number_of_1_to_4_family_units": 995.0
+    },
+    "Holmes County_9504": {
+        "population": 2562.0,
+        "minority_population": 73.7300033569336,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 79.80000305175781,
+        "number_of_owner_occupied_units": 574.0,
+        "number_of_1_to_4_family_units": 1150.0
+    },
+    "Holmes County_9505": {
+        "population": 5263.0,
+        "minority_population": 86.5999984741211,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 62.06999969482422,
+        "number_of_owner_occupied_units": 1086.0,
+        "number_of_1_to_4_family_units": 1975.0
+    },
+    "Humphreys County_9501": {
+        "population": 2725.0,
+        "minority_population": 74.94000244140625,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 74.36000061035156,
+        "number_of_owner_occupied_units": 573.0,
+        "number_of_1_to_4_family_units": 1103.0
+    },
+    "Humphreys County_9502": {
+        "population": 1833.0,
+        "minority_population": 65.95999908447266,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 64.30000305175781,
+        "number_of_owner_occupied_units": 472.0,
+        "number_of_1_to_4_family_units": 1096.0
+    },
+    "Humphreys County_9503": {
+        "population": 4426.0,
+        "minority_population": 84.86000061035156,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 68.02999877929688,
+        "number_of_owner_occupied_units": 611.0,
+        "number_of_1_to_4_family_units": 1417.0
+    },
+    "Issaquena County_9501": {
+        "population": 1291.0,
+        "minority_population": 65.69000244140625,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 60.060001373291016,
+        "number_of_owner_occupied_units": 246.0,
+        "number_of_1_to_4_family_units": 484.0
+    },
+    "Itawamba County_9501": {
+        "population": 4906.0,
+        "minority_population": 10.84000015258789,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 98.95999908447266,
+        "number_of_owner_occupied_units": 1424.0,
+        "number_of_1_to_4_family_units": 2312.0
+    },
+    "Itawamba County_9502": {
+        "population": 6405.0,
+        "minority_population": 2.809999942779541,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 108.02999877929688,
+        "number_of_owner_occupied_units": 1948.0,
+        "number_of_1_to_4_family_units": 2695.0
+    },
+    "Itawamba County_9503": {
+        "population": 3245.0,
+        "minority_population": 18.799999237060547,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 144.52000427246094,
+        "number_of_owner_occupied_units": 596.0,
+        "number_of_1_to_4_family_units": 1027.0
+    },
+    "Itawamba County_9504": {
+        "population": 4985.0,
+        "minority_population": 2.430000066757202,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 96.2300033569336,
+        "number_of_owner_occupied_units": 1652.0,
+        "number_of_1_to_4_family_units": 2174.0
+    },
+    "Itawamba County_9505": {
+        "population": 3910.0,
+        "minority_population": 17.260000228881836,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 121.33000183105467,
+        "number_of_owner_occupied_units": 1257.0,
+        "number_of_1_to_4_family_units": 1711.0
+    },
+    "Jackson County_401": {
+        "population": 7016.0,
+        "minority_population": 2.7100000381469727,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 113.93000030517578,
+        "number_of_owner_occupied_units": 2076.0,
+        "number_of_1_to_4_family_units": 2788.0
+    },
+    "Jackson County_402": {
+        "population": 7453.0,
+        "minority_population": 16.93000030517578,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 121.31999969482422,
+        "number_of_owner_occupied_units": 1992.0,
+        "number_of_1_to_4_family_units": 2815.0
+    },
+    "Jackson County_403": {
+        "population": 7728.0,
+        "minority_population": 31.559999465942383,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 114.5,
+        "number_of_owner_occupied_units": 1425.0,
+        "number_of_1_to_4_family_units": 2184.0
+    },
+    "Jackson County_404": {
+        "population": 8564.0,
+        "minority_population": 21.540000915527344,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 128.3000030517578,
+        "number_of_owner_occupied_units": 1986.0,
+        "number_of_1_to_4_family_units": 3012.0
+    },
+    "Jackson County_405": {
+        "population": 3572.0,
+        "minority_population": 13.609999656677246,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 166.7899932861328,
+        "number_of_owner_occupied_units": 1009.0,
+        "number_of_1_to_4_family_units": 1712.0
+    },
+    "Jackson County_406": {
+        "population": 5679.0,
+        "minority_population": 23.90999984741211,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 142.6199951171875,
+        "number_of_owner_occupied_units": 1555.0,
+        "number_of_1_to_4_family_units": 2119.0
+    },
+    "Jackson County_407": {
+        "population": 8910.0,
+        "minority_population": 26.8700008392334,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 141.97000122070312,
+        "number_of_owner_occupied_units": 2209.0,
+        "number_of_1_to_4_family_units": 3298.0
+    },
+    "Jackson County_408": {
+        "population": 6461.0,
+        "minority_population": 34.04999923706055,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 93.26000213623048,
+        "number_of_owner_occupied_units": 1457.0,
+        "number_of_1_to_4_family_units": 2469.0
+    },
+    "Jackson County_409": {
+        "population": 12219.0,
+        "minority_population": 25.51000022888184,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 136.27000427246094,
+        "number_of_owner_occupied_units": 3165.0,
+        "number_of_1_to_4_family_units": 4588.0
+    },
+    "Jackson County_410": {
+        "population": 5019.0,
+        "minority_population": 52.79999923706055,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 111.16999816894533,
+        "number_of_owner_occupied_units": 1347.0,
+        "number_of_1_to_4_family_units": 2030.0
+    },
+    "Jackson County_411": {
+        "population": 6501.0,
+        "minority_population": 51.27000045776367,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 93.87000274658205,
+        "number_of_owner_occupied_units": 1624.0,
+        "number_of_1_to_4_family_units": 2517.0
+    },
+    "Jackson County_413": {
+        "population": 6100.0,
+        "minority_population": 18.34000015258789,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 77.7699966430664,
+        "number_of_owner_occupied_units": 1825.0,
+        "number_of_1_to_4_family_units": 2853.0
+    },
+    "Jackson County_414": {
+        "population": 3143.0,
+        "minority_population": 55.27000045776367,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 101.52999877929688,
+        "number_of_owner_occupied_units": 884.0,
+        "number_of_1_to_4_family_units": 1394.0
+    },
+    "Jackson County_415": {
+        "population": 1127.0,
+        "minority_population": 77.7300033569336,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 96.02999877929688,
+        "number_of_owner_occupied_units": 362.0,
+        "number_of_1_to_4_family_units": 654.0
+    },
+    "Jackson County_416": {
+        "population": 2773.0,
+        "minority_population": 87.44999694824219,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 68.80999755859375,
+        "number_of_owner_occupied_units": 548.0,
+        "number_of_1_to_4_family_units": 1120.0
+    },
+    "Jackson County_417": {
+        "population": 2178.0,
+        "minority_population": 97.37999725341795,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 99.33999633789062,
+        "number_of_owner_occupied_units": 572.0,
+        "number_of_1_to_4_family_units": 842.0
+    },
+    "Jackson County_419": {
+        "population": 2279.0,
+        "minority_population": 38.34999847412109,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 98.33000183105467,
+        "number_of_owner_occupied_units": 522.0,
+        "number_of_1_to_4_family_units": 856.0
+    },
+    "Jackson County_420": {
+        "population": 4783.0,
+        "minority_population": 62.06999969482422,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 73.5999984741211,
+        "number_of_owner_occupied_units": 787.0,
+        "number_of_1_to_4_family_units": 1573.0
+    },
+    "Jackson County_421": {
+        "population": 2881.0,
+        "minority_population": 50.540000915527344,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 63.86000061035156,
+        "number_of_owner_occupied_units": 548.0,
+        "number_of_1_to_4_family_units": 1186.0
+    },
+    "Jackson County_422": {
+        "population": 4941.0,
+        "minority_population": 54.040000915527344,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 46.61000061035156,
+        "number_of_owner_occupied_units": 722.0,
+        "number_of_1_to_4_family_units": 1367.0
+    },
+    "Jackson County_425": {
+        "population": 2067.0,
+        "minority_population": 32.75,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 113.63999938964844,
+        "number_of_owner_occupied_units": 561.0,
+        "number_of_1_to_4_family_units": 1012.0
+    },
+    "Jackson County_426": {
+        "population": 3099.0,
+        "minority_population": 15.9399995803833,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 158.27000427246094,
+        "number_of_owner_occupied_units": 825.0,
+        "number_of_1_to_4_family_units": 1076.0
+    },
+    "Jackson County_427": {
+        "population": 1007.0,
+        "minority_population": 15.289999961853027,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 91.02999877929688,
+        "number_of_owner_occupied_units": 268.0,
+        "number_of_1_to_4_family_units": 425.0
+    },
+    "Jackson County_429": {
+        "population": 2296.0,
+        "minority_population": 39.59000015258789,
+        "hud_median_family_income": 53200.0,
+        "tract_to_msamd_income": 87.05999755859375,
+        "number_of_owner_occupied_units": 549.0,
+        "number_of_1_to_4_family_units": 1043.0
+    },
+    "Jasper County_9501": {
+        "population": 4449.0,
+        "minority_population": 52.459999084472656,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 94.3499984741211,
+        "number_of_owner_occupied_units": 1527.0,
+        "number_of_1_to_4_family_units": 2522.0
+    },
+    "Jasper County_9502": {
+        "population": 2083.0,
+        "minority_population": 63.61000061035156,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 80.6500015258789,
+        "number_of_owner_occupied_units": 532.0,
+        "number_of_1_to_4_family_units": 931.0
+    },
+    "Jasper County_9503": {
+        "population": 5146.0,
+        "minority_population": 27.520000457763672,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 98.12999725341795,
+        "number_of_owner_occupied_units": 1825.0,
+        "number_of_1_to_4_family_units": 2287.0
+    },
+    "Jasper County_9504": {
+        "population": 4910.0,
+        "minority_population": 79.69000244140625,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 88.31999969482422,
+        "number_of_owner_occupied_units": 1750.0,
+        "number_of_1_to_4_family_units": 2387.0
+    },
+    "Jefferson County_9501": {
+        "population": 5786.0,
+        "minority_population": 83.69999694824219,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 60.7400016784668,
+        "number_of_owner_occupied_units": 1277.0,
+        "number_of_1_to_4_family_units": 3057.0
+    },
+    "Jefferson County_9502": {
+        "population": 1800.0,
+        "minority_population": 94.11000061035156,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 60.34999847412109,
+        "number_of_owner_occupied_units": 271.0,
+        "number_of_1_to_4_family_units": 534.0
+    },
+    "Jefferson Davis County_9501": {
+        "population": 5324.0,
+        "minority_population": 67.58000183105469,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 61.38999938964844,
+        "number_of_owner_occupied_units": 1571.0,
+        "number_of_1_to_4_family_units": 2650.0
+    },
+    "Jefferson Davis County_9502": {
+        "population": 3534.0,
+        "minority_population": 53.25,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 90.79000091552734,
+        "number_of_owner_occupied_units": 1209.0,
+        "number_of_1_to_4_family_units": 1661.0
+    },
+    "Jones County_9501": {
+        "population": 6620.0,
+        "minority_population": 32.849998474121094,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 103.7300033569336,
+        "number_of_owner_occupied_units": 1780.0,
+        "number_of_1_to_4_family_units": 2719.0
+    },
+    "Jones County_9502": {
+        "population": 5804.0,
+        "minority_population": 24.06999969482422,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 121.08000183105467,
+        "number_of_owner_occupied_units": 1650.0,
+        "number_of_1_to_4_family_units": 2217.0
+    },
+    "Jones County_9503": {
+        "population": 3594.0,
+        "minority_population": 8.460000038146973,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 112.01000213623048,
+        "number_of_owner_occupied_units": 1086.0,
+        "number_of_1_to_4_family_units": 1425.0
+    },
+    "Jones County_9504": {
+        "population": 4978.0,
+        "minority_population": 58.93999862670898,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 100.72000122070312,
+        "number_of_owner_occupied_units": 1118.0,
+        "number_of_1_to_4_family_units": 1917.0
+    },
+    "Jones County_9505": {
+        "population": 4152.0,
+        "minority_population": 65.66000366210938,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 85.04000091552734,
+        "number_of_owner_occupied_units": 796.0,
+        "number_of_1_to_4_family_units": 1590.0
+    },
+    "Jones County_9506": {
+        "population": 7423.0,
+        "minority_population": 69.9000015258789,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 46.150001525878906,
+        "number_of_owner_occupied_units": 1217.0,
+        "number_of_1_to_4_family_units": 2441.0
+    },
+    "Jones County_9507": {
+        "population": 3607.0,
+        "minority_population": 73.87999725341797,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 61.52000045776367,
+        "number_of_owner_occupied_units": 821.0,
+        "number_of_1_to_4_family_units": 1505.0
+    },
+    "Jones County_9508": {
+        "population": 5195.0,
+        "minority_population": 8.199999809265137,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 137.36000061035156,
+        "number_of_owner_occupied_units": 1768.0,
+        "number_of_1_to_4_family_units": 2355.0
+    },
+    "Jones County_9509": {
+        "population": 7680.0,
+        "minority_population": 14.350000381469728,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 107.62999725341795,
+        "number_of_owner_occupied_units": 2631.0,
+        "number_of_1_to_4_family_units": 3231.0
+    },
+    "Jones County_9510": {
+        "population": 3802.0,
+        "minority_population": 45.18999862670898,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 66.20999908447266,
+        "number_of_owner_occupied_units": 603.0,
+        "number_of_1_to_4_family_units": 1199.0
+    },
+    "Jones County_9511": {
+        "population": 7177.0,
+        "minority_population": 14.890000343322754,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 111.02999877929688,
+        "number_of_owner_occupied_units": 2017.0,
+        "number_of_1_to_4_family_units": 2740.0
+    },
+    "Kemper County_301": {
+        "population": 5787.0,
+        "minority_population": 72.04000091552734,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 69.58000183105469,
+        "number_of_owner_occupied_units": 1419.0,
+        "number_of_1_to_4_family_units": 2284.0
+    },
+    "Kemper County_302": {
+        "population": 4424.0,
+        "minority_population": 56.77999877929688,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 106.13999938964844,
+        "number_of_owner_occupied_units": 1378.0,
+        "number_of_1_to_4_family_units": 2327.0
+    },
+    "Lafayette County_9501": {
+        "population": 4741.0,
+        "minority_population": 50.560001373291016,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 119.91999816894533,
+        "number_of_owner_occupied_units": 1077.0,
+        "number_of_1_to_4_family_units": 1791.0
+    },
+    "Lafayette County_9502": {
+        "population": 4352.0,
+        "minority_population": 22.450000762939453,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 110.83000183105467,
+        "number_of_owner_occupied_units": 915.0,
+        "number_of_1_to_4_family_units": 2595.0
+    },
+    "Lafayette County_9503": {
+        "population": 3522.0,
+        "minority_population": 35.86000061035156,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 128.9600067138672,
+        "number_of_owner_occupied_units": 513.0,
+        "number_of_1_to_4_family_units": 1854.0
+    },
+    "Lafayette County_9504": {
+        "population": 4272.0,
+        "minority_population": 34.529998779296875,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 107.12000274658205,
+        "number_of_owner_occupied_units": 1086.0,
+        "number_of_1_to_4_family_units": 1995.0
+    },
+    "Lafayette County_9505": {
+        "population": 6718.0,
+        "minority_population": 36.11000061035156,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 155.02000427246094,
+        "number_of_owner_occupied_units": 1190.0,
+        "number_of_1_to_4_family_units": 2352.0
+    },
+    "Lamar County_201": {
+        "population": 7632.0,
+        "minority_population": 13.68000030517578,
+        "hud_median_family_income": 51600.0,
+        "tract_to_msamd_income": 129.5800018310547,
+        "number_of_owner_occupied_units": 2520.0,
+        "number_of_1_to_4_family_units": 3262.0
+    },
+    "Lamar County_202": {
+        "population": 8816.0,
+        "minority_population": 10.729999542236328,
+        "hud_median_family_income": 51600.0,
+        "tract_to_msamd_income": 187.6300048828125,
+        "number_of_owner_occupied_units": 2549.0,
+        "number_of_1_to_4_family_units": 2893.0
+    },
+    "Lamar County_203": {
+        "population": 10428.0,
+        "minority_population": 47.13999938964844,
+        "hud_median_family_income": 51600.0,
+        "tract_to_msamd_income": 83.30999755859375,
+        "number_of_owner_occupied_units": 1198.0,
+        "number_of_1_to_4_family_units": 2488.0
+    },
+    "Lamar County_204": {
+        "population": 6596.0,
+        "minority_population": 14.390000343322754,
+        "hud_median_family_income": 51600.0,
+        "tract_to_msamd_income": 100.02999877929688,
+        "number_of_owner_occupied_units": 1651.0,
+        "number_of_1_to_4_family_units": 2494.0
+    },
+    "Lamar County_205": {
+        "population": 6022.0,
+        "minority_population": 10.149999618530272,
+        "hud_median_family_income": 51600.0,
+        "tract_to_msamd_income": 113.44000244140624,
+        "number_of_owner_occupied_units": 2003.0,
+        "number_of_1_to_4_family_units": 2656.0
+    },
+    "Lamar County_206": {
+        "population": 3268.0,
+        "minority_population": 41.52000045776367,
+        "hud_median_family_income": 51600.0,
+        "tract_to_msamd_income": 74.51000213623047,
+        "number_of_owner_occupied_units": 904.0,
+        "number_of_1_to_4_family_units": 1607.0
+    },
+    "Lauderdale County_2": {
+        "population": 3015.0,
+        "minority_population": 92.66999816894533,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 58.790000915527344,
+        "number_of_owner_occupied_units": 469.0,
+        "number_of_1_to_4_family_units": 1490.0
+    },
+    "Lauderdale County_3": {
+        "population": 2676.0,
+        "minority_population": 81.7300033569336,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 74.0,
+        "number_of_owner_occupied_units": 661.0,
+        "number_of_1_to_4_family_units": 1189.0
+    },
+    "Lauderdale County_4": {
+        "population": 5406.0,
+        "minority_population": 93.91000366210938,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 38.27999877929688,
+        "number_of_owner_occupied_units": 792.0,
+        "number_of_1_to_4_family_units": 1919.0
+    },
+    "Lauderdale County_6": {
+        "population": 1788.0,
+        "minority_population": 94.06999969482422,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 40.27000045776367,
+        "number_of_owner_occupied_units": 267.0,
+        "number_of_1_to_4_family_units": 925.0
+    },
+    "Lauderdale County_7": {
+        "population": 4071.0,
+        "minority_population": 78.36000061035156,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 56.68000030517578,
+        "number_of_owner_occupied_units": 665.0,
+        "number_of_1_to_4_family_units": 1466.0
+    },
+    "Lauderdale County_8": {
+        "population": 2195.0,
+        "minority_population": 83.2300033569336,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 70.47000122070312,
+        "number_of_owner_occupied_units": 269.0,
+        "number_of_1_to_4_family_units": 782.0
+    },
+    "Lauderdale County_9": {
+        "population": 5543.0,
+        "minority_population": 77.54000091552734,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 97.23999786376952,
+        "number_of_owner_occupied_units": 1327.0,
+        "number_of_1_to_4_family_units": 2070.0
+    },
+    "Lauderdale County_10": {
+        "population": 4198.0,
+        "minority_population": 41.15999984741211,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 128.42999267578125,
+        "number_of_owner_occupied_units": 927.0,
+        "number_of_1_to_4_family_units": 1587.0
+    },
+    "Lauderdale County_11": {
+        "population": 4325.0,
+        "minority_population": 34.0099983215332,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 202.5800018310547,
+        "number_of_owner_occupied_units": 1005.0,
+        "number_of_1_to_4_family_units": 1315.0
+    },
+    "Lauderdale County_102": {
+        "population": 6936.0,
+        "minority_population": 31.82999992370605,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 170.8000030517578,
+        "number_of_owner_occupied_units": 1842.0,
+        "number_of_1_to_4_family_units": 2926.0
+    },
+    "Lauderdale County_103": {
+        "population": 6119.0,
+        "minority_population": 17.18000030517578,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 144.2899932861328,
+        "number_of_owner_occupied_units": 2203.0,
+        "number_of_1_to_4_family_units": 2674.0
+    },
+    "Lauderdale County_104": {
+        "population": 3214.0,
+        "minority_population": 37.7400016784668,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 99.52999877929688,
+        "number_of_owner_occupied_units": 530.0,
+        "number_of_1_to_4_family_units": 764.0
+    },
+    "Lauderdale County_105": {
+        "population": 5569.0,
+        "minority_population": 8.100000381469727,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 113.55999755859376,
+        "number_of_owner_occupied_units": 1544.0,
+        "number_of_1_to_4_family_units": 2401.0
+    },
+    "Lauderdale County_106": {
+        "population": 7430.0,
+        "minority_population": 22.09000015258789,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 126.9000015258789,
+        "number_of_owner_occupied_units": 1916.0,
+        "number_of_1_to_4_family_units": 2962.0
+    },
+    "Lauderdale County_9800": {
+        "population": 43.0,
+        "minority_population": 9.300000190734863,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 48.619998931884766,
+        "number_of_owner_occupied_units": 28.0,
+        "number_of_1_to_4_family_units": 28.0
+    },
+    "Lawrence County_9601": {
+        "population": 4254.0,
+        "minority_population": 43.13999938964844,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 91.19000244140624,
+        "number_of_owner_occupied_units": 1195.0,
+        "number_of_1_to_4_family_units": 1883.0
+    },
+    "Lawrence County_9602": {
+        "population": 4902.0,
+        "minority_population": 44.880001068115234,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 88.52999877929688,
+        "number_of_owner_occupied_units": 1388.0,
+        "number_of_1_to_4_family_units": 2106.0
+    },
+    "Lawrence County_9603": {
+        "population": 3430.0,
+        "minority_population": 7.960000038146973,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 115.68000030517578,
+        "number_of_owner_occupied_units": 1156.0,
+        "number_of_1_to_4_family_units": 1915.0
+    },
+    "Leake County_401": {
+        "population": 2829.0,
+        "minority_population": 20.81999969482422,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 102.97000122070312,
+        "number_of_owner_occupied_units": 1108.0,
+        "number_of_1_to_4_family_units": 1410.0
+    },
+    "Leake County_404": {
+        "population": 7108.0,
+        "minority_population": 48.970001220703125,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 114.0199966430664,
+        "number_of_owner_occupied_units": 1829.0,
+        "number_of_1_to_4_family_units": 2729.0
+    },
+    "Leake County_405": {
+        "population": 3087.0,
+        "minority_population": 30.0,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 116.20999908447266,
+        "number_of_owner_occupied_units": 1162.0,
+        "number_of_1_to_4_family_units": 1552.0
+    },
+    "Leake County_406": {
+        "population": 6118.0,
+        "minority_population": 68.9800033569336,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 78.6500015258789,
+        "number_of_owner_occupied_units": 1035.0,
+        "number_of_1_to_4_family_units": 2000.0
+    },
+    "Leake County_407": {
+        "population": 4011.0,
+        "minority_population": 70.11000061035156,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 75.91999816894531,
+        "number_of_owner_occupied_units": 968.0,
+        "number_of_1_to_4_family_units": 1590.0
+    },
+    "Lee County_9501": {
+        "population": 4028.0,
+        "minority_population": 26.51000022888184,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 117.1999969482422,
+        "number_of_owner_occupied_units": 1060.0,
+        "number_of_1_to_4_family_units": 1547.0
+    },
+    "Lee County_9502": {
+        "population": 5939.0,
+        "minority_population": 4.179999828338623,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 143.6999969482422,
+        "number_of_owner_occupied_units": 1667.0,
+        "number_of_1_to_4_family_units": 2312.0
+    },
+    "Lee County_9503": {
+        "population": 3206.0,
+        "minority_population": 23.38999938964844,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 95.63999938964844,
+        "number_of_owner_occupied_units": 870.0,
+        "number_of_1_to_4_family_units": 1322.0
+    },
+    "Lee County_9504": {
+        "population": 7518.0,
+        "minority_population": 16.079999923706055,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 161.0800018310547,
+        "number_of_owner_occupied_units": 2341.0,
+        "number_of_1_to_4_family_units": 2956.0
+    },
+    "Lee County_9505": {
+        "population": 5593.0,
+        "minority_population": 35.349998474121094,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 150.57000732421875,
+        "number_of_owner_occupied_units": 1515.0,
+        "number_of_1_to_4_family_units": 2315.0
+    },
+    "Lee County_9506": {
+        "population": 3964.0,
+        "minority_population": 42.2599983215332,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 92.05999755859376,
+        "number_of_owner_occupied_units": 599.0,
+        "number_of_1_to_4_family_units": 1292.0
+    },
+    "Lee County_9507": {
+        "population": 3624.0,
+        "minority_population": 57.63999938964844,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 71.12000274658203,
+        "number_of_owner_occupied_units": 618.0,
+        "number_of_1_to_4_family_units": 1391.0
+    },
+    "Lee County_9508": {
+        "population": 3178.0,
+        "minority_population": 57.29999923706055,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 103.75,
+        "number_of_owner_occupied_units": 680.0,
+        "number_of_1_to_4_family_units": 1163.0
+    },
+    "Lee County_9509": {
+        "population": 4673.0,
+        "minority_population": 64.55999755859375,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 114.91000366210938,
+        "number_of_owner_occupied_units": 739.0,
+        "number_of_1_to_4_family_units": 1468.0
+    },
+    "Lee County_9510": {
+        "population": 3989.0,
+        "minority_population": 75.68000030517578,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 70.4000015258789,
+        "number_of_owner_occupied_units": 763.0,
+        "number_of_1_to_4_family_units": 1644.0
+    },
+    "Lee County_9511": {
+        "population": 5743.0,
+        "minority_population": 29.440000534057617,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 108.02999877929688,
+        "number_of_owner_occupied_units": 1763.0,
+        "number_of_1_to_4_family_units": 2587.0
+    },
+    "Leflore County_9501": {
+        "population": 1045.0,
+        "minority_population": 62.970001220703125,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 70.43000030517578,
+        "number_of_owner_occupied_units": 233.0,
+        "number_of_1_to_4_family_units": 519.0
+    },
+    "Leflore County_9502": {
+        "population": 3230.0,
+        "minority_population": 72.54000091552734,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 44.02999877929688,
+        "number_of_owner_occupied_units": 371.0,
+        "number_of_1_to_4_family_units": 1234.0
+    },
+    "Leflore County_9503": {
+        "population": 5576.0,
+        "minority_population": 86.70999908447266,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 61.310001373291016,
+        "number_of_owner_occupied_units": 736.0,
+        "number_of_1_to_4_family_units": 1895.0
+    },
+    "Leflore County_9504": {
+        "population": 5301.0,
+        "minority_population": 86.25,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 78.69000244140625,
+        "number_of_owner_occupied_units": 1164.0,
+        "number_of_1_to_4_family_units": 1983.0
+    },
+    "Leflore County_9506": {
+        "population": 5221.0,
+        "minority_population": 18.790000915527344,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 139.6199951171875,
+        "number_of_owner_occupied_units": 1773.0,
+        "number_of_1_to_4_family_units": 2419.0
+    },
+    "Leflore County_9507": {
+        "population": 2260.0,
+        "minority_population": 80.66000366210938,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 51.34999847412109,
+        "number_of_owner_occupied_units": 357.0,
+        "number_of_1_to_4_family_units": 843.0
+    },
+    "Leflore County_9509": {
+        "population": 4627.0,
+        "minority_population": 97.37999725341795,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 34.279998779296875,
+        "number_of_owner_occupied_units": 464.0,
+        "number_of_1_to_4_family_units": 1681.0
+    },
+    "Lincoln County_9501": {
+        "population": 3751.0,
+        "minority_population": 38.18000030517578,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 87.6500015258789,
+        "number_of_owner_occupied_units": 1151.0,
+        "number_of_1_to_4_family_units": 1845.0
+    },
+    "Lincoln County_9502": {
+        "population": 5204.0,
+        "minority_population": 19.270000457763672,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 106.66999816894533,
+        "number_of_owner_occupied_units": 1764.0,
+        "number_of_1_to_4_family_units": 2656.0
+    },
+    "Lincoln County_9503": {
+        "population": 7617.0,
+        "minority_population": 21.21999931335449,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 116.33999633789062,
+        "number_of_owner_occupied_units": 2499.0,
+        "number_of_1_to_4_family_units": 3273.0
+    },
+    "Lincoln County_9504": {
+        "population": 7506.0,
+        "minority_population": 16.790000915527344,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 91.77999877929688,
+        "number_of_owner_occupied_units": 2112.0,
+        "number_of_1_to_4_family_units": 3004.0
+    },
+    "Lincoln County_9505": {
+        "population": 5006.0,
+        "minority_population": 69.13999938964844,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 60.43000030517578,
+        "number_of_owner_occupied_units": 810.0,
+        "number_of_1_to_4_family_units": 1771.0
+    },
+    "Lincoln County_9506": {
+        "population": 5681.0,
+        "minority_population": 46.41999816894531,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 107.8000030517578,
+        "number_of_owner_occupied_units": 1363.0,
+        "number_of_1_to_4_family_units": 2286.0
+    },
+    "Lowndes County_1": {
+        "population": 2882.0,
+        "minority_population": 35.56999969482422,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 104.02999877929688,
+        "number_of_owner_occupied_units": 700.0,
+        "number_of_1_to_4_family_units": 1281.0
+    },
+    "Lowndes County_2": {
+        "population": 1443.0,
+        "minority_population": 32.290000915527344,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 132.6699981689453,
+        "number_of_owner_occupied_units": 16.0,
+        "number_of_1_to_4_family_units": 592.0
+    },
+    "Lowndes County_3": {
+        "population": 8072.0,
+        "minority_population": 33.68000030517578,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 169.80999755859375,
+        "number_of_owner_occupied_units": 2160.0,
+        "number_of_1_to_4_family_units": 3442.0
+    },
+    "Lowndes County_4": {
+        "population": 3913.0,
+        "minority_population": 17.860000610351562,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 148.88999938964844,
+        "number_of_owner_occupied_units": 1235.0,
+        "number_of_1_to_4_family_units": 1539.0
+    },
+    "Lowndes County_5": {
+        "population": 4281.0,
+        "minority_population": 63.81999969482422,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 89.19999694824219,
+        "number_of_owner_occupied_units": 989.0,
+        "number_of_1_to_4_family_units": 1498.0
+    },
+    "Lowndes County_6": {
+        "population": 3904.0,
+        "minority_population": 79.33000183105469,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 53.25,
+        "number_of_owner_occupied_units": 529.0,
+        "number_of_1_to_4_family_units": 1166.0
+    },
+    "Lowndes County_7": {
+        "population": 5286.0,
+        "minority_population": 70.11000061035156,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 49.97999954223633,
+        "number_of_owner_occupied_units": 681.0,
+        "number_of_1_to_4_family_units": 1740.0
+    },
+    "Lowndes County_8": {
+        "population": 3041.0,
+        "minority_population": 94.8000030517578,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 54.47999954223633,
+        "number_of_owner_occupied_units": 462.0,
+        "number_of_1_to_4_family_units": 1489.0
+    },
+    "Lowndes County_9": {
+        "population": 4598.0,
+        "minority_population": 59.77000045776367,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 85.9000015258789,
+        "number_of_owner_occupied_units": 926.0,
+        "number_of_1_to_4_family_units": 2214.0
+    },
+    "Lowndes County_10": {
+        "population": 2357.0,
+        "minority_population": 44.7599983215332,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 166.64999389648438,
+        "number_of_owner_occupied_units": 815.0,
+        "number_of_1_to_4_family_units": 1165.0
+    },
+    "Lowndes County_11": {
+        "population": 1783.0,
+        "minority_population": 88.33000183105469,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 74.13999938964844,
+        "number_of_owner_occupied_units": 546.0,
+        "number_of_1_to_4_family_units": 844.0
+    },
+    "Madison County_301": {
+        "population": 5286.0,
+        "minority_population": 78.20999908447266,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 104.70999908447266,
+        "number_of_owner_occupied_units": 566.0,
+        "number_of_1_to_4_family_units": 965.0
+    },
+    "Madison County_302": {
+        "population": 1810.0,
+        "minority_population": 23.14999961853028,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 251.8699951171875,
+        "number_of_owner_occupied_units": 563.0,
+        "number_of_1_to_4_family_units": 634.0
+    },
+    "Madison County_303": {
+        "population": 6928.0,
+        "minority_population": 52.630001068115234,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 123.58000183105467,
+        "number_of_owner_occupied_units": 1910.0,
+        "number_of_1_to_4_family_units": 2585.0
+    },
+    "Madison County_304": {
+        "population": 14840.0,
+        "minority_population": 30.920000076293945,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 166.4199981689453,
+        "number_of_owner_occupied_units": 4468.0,
+        "number_of_1_to_4_family_units": 5134.0
+    },
+    "Madison County_305": {
+        "population": 7607.0,
+        "minority_population": 97.83999633789062,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 35.119998931884766,
+        "number_of_owner_occupied_units": 858.0,
+        "number_of_1_to_4_family_units": 2344.0
+    },
+    "Madison County_306": {
+        "population": 3619.0,
+        "minority_population": 88.51000213623047,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 54.43000030517578,
+        "number_of_owner_occupied_units": 672.0,
+        "number_of_1_to_4_family_units": 1174.0
+    },
+    "Madison County_307": {
+        "population": 843.0,
+        "minority_population": 71.29000091552734,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 71.63999938964844,
+        "number_of_owner_occupied_units": 174.0,
+        "number_of_1_to_4_family_units": 390.0
+    },
+    "Madison County_308": {
+        "population": 2161.0,
+        "minority_population": 65.66000366210938,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 85.97000122070312,
+        "number_of_owner_occupied_units": 562.0,
+        "number_of_1_to_4_family_units": 894.0
+    },
+    "Madison County_309": {
+        "population": 6112.0,
+        "minority_population": 70.70999908447266,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 111.58000183105467,
+        "number_of_owner_occupied_units": 1913.0,
+        "number_of_1_to_4_family_units": 2595.0
+    },
+    "Madison County_310": {
+        "population": 1792.0,
+        "minority_population": 82.6500015258789,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 64.8499984741211,
+        "number_of_owner_occupied_units": 678.0,
+        "number_of_1_to_4_family_units": 874.0
+    },
+    "Marion County_9501": {
+        "population": 5261.0,
+        "minority_population": 28.059999465942383,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 88.7300033569336,
+        "number_of_owner_occupied_units": 1766.0,
+        "number_of_1_to_4_family_units": 2514.0
+    },
+    "Marion County_9502": {
+        "population": 3404.0,
+        "minority_population": 30.93000030517578,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 75.05000305175781,
+        "number_of_owner_occupied_units": 979.0,
+        "number_of_1_to_4_family_units": 1583.0
+    },
+    "Marion County_9503": {
+        "population": 3436.0,
+        "minority_population": 56.97999954223633,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 52.97999954223633,
+        "number_of_owner_occupied_units": 807.0,
+        "number_of_1_to_4_family_units": 1362.0
+    },
+    "Marion County_9504": {
+        "population": 3901.0,
+        "minority_population": 30.61000061035156,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 128.7100067138672,
+        "number_of_owner_occupied_units": 840.0,
+        "number_of_1_to_4_family_units": 1658.0
+    },
+    "Marion County_9505": {
+        "population": 4657.0,
+        "minority_population": 55.83000183105469,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 92.25,
+        "number_of_owner_occupied_units": 1382.0,
+        "number_of_1_to_4_family_units": 2189.0
+    },
+    "Marion County_9506": {
+        "population": 5450.0,
+        "minority_population": 15.90999984741211,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 108.69000244140624,
+        "number_of_owner_occupied_units": 1714.0,
+        "number_of_1_to_4_family_units": 2241.0
+    },
+    "Marshall County_9501": {
+        "population": 5922.0,
+        "minority_population": 39.43000030517578,
+        "hud_median_family_income": 59100.0,
+        "tract_to_msamd_income": 88.0,
+        "number_of_owner_occupied_units": 2010.0,
+        "number_of_1_to_4_family_units": 2843.0
+    },
+    "Marshall County_9502": {
+        "population": 8470.0,
+        "minority_population": 38.16999816894531,
+        "hud_median_family_income": 59100.0,
+        "tract_to_msamd_income": 86.41999816894531,
+        "number_of_owner_occupied_units": 2437.0,
+        "number_of_1_to_4_family_units": 3532.0
+    },
+    "Marshall County_9503": {
+        "population": 6785.0,
+        "minority_population": 49.310001373291016,
+        "hud_median_family_income": 59100.0,
+        "tract_to_msamd_income": 73.04000091552734,
+        "number_of_owner_occupied_units": 2332.0,
+        "number_of_1_to_4_family_units": 2903.0
+    },
+    "Marshall County_9504": {
+        "population": 4683.0,
+        "minority_population": 77.19000244140625,
+        "hud_median_family_income": 59100.0,
+        "tract_to_msamd_income": 70.63999938964844,
+        "number_of_owner_occupied_units": 876.0,
+        "number_of_1_to_4_family_units": 1461.0
+    },
+    "Marshall County_9505": {
+        "population": 7402.0,
+        "minority_population": 48.56999969482422,
+        "hud_median_family_income": 59100.0,
+        "tract_to_msamd_income": 72.98999786376953,
+        "number_of_owner_occupied_units": 2005.0,
+        "number_of_1_to_4_family_units": 2752.0
+    },
+    "Monroe County_9501": {
+        "population": 5632.0,
+        "minority_population": 4.550000190734863,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 125.0,
+        "number_of_owner_occupied_units": 1685.0,
+        "number_of_1_to_4_family_units": 2529.0
+    },
+    "Monroe County_9502": {
+        "population": 6982.0,
+        "minority_population": 40.84999847412109,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 105.36000061035156,
+        "number_of_owner_occupied_units": 2183.0,
+        "number_of_1_to_4_family_units": 3184.0
+    },
+    "Monroe County_9503": {
+        "population": 3640.0,
+        "minority_population": 14.369999885559082,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 119.02999877929688,
+        "number_of_owner_occupied_units": 1060.0,
+        "number_of_1_to_4_family_units": 1599.0
+    },
+    "Monroe County_9504": {
+        "population": 3466.0,
+        "minority_population": 52.650001525878906,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 78.69999694824219,
+        "number_of_owner_occupied_units": 774.0,
+        "number_of_1_to_4_family_units": 1429.0
+    },
+    "Monroe County_9505": {
+        "population": 4022.0,
+        "minority_population": 12.5600004196167,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 101.52999877929688,
+        "number_of_owner_occupied_units": 1407.0,
+        "number_of_1_to_4_family_units": 1953.0
+    },
+    "Monroe County_9506": {
+        "population": 3094.0,
+        "minority_population": 54.040000915527344,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 93.80999755859376,
+        "number_of_owner_occupied_units": 975.0,
+        "number_of_1_to_4_family_units": 1481.0
+    },
+    "Monroe County_9507": {
+        "population": 2379.0,
+        "minority_population": 66.45999908447266,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 98.66999816894533,
+        "number_of_owner_occupied_units": 576.0,
+        "number_of_1_to_4_family_units": 1134.0
+    },
+    "Monroe County_9508": {
+        "population": 3177.0,
+        "minority_population": 76.2699966430664,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 85.37999725341797,
+        "number_of_owner_occupied_units": 668.0,
+        "number_of_1_to_4_family_units": 1317.0
+    },
+    "Montgomery County_9501": {
+        "population": 2583.0,
+        "minority_population": 44.720001220703125,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 115.6500015258789,
+        "number_of_owner_occupied_units": 909.0,
+        "number_of_1_to_4_family_units": 1380.0
+    },
+    "Montgomery County_9502": {
+        "population": 2746.0,
+        "minority_population": 42.02000045776367,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 90.02999877929688,
+        "number_of_owner_occupied_units": 949.0,
+        "number_of_1_to_4_family_units": 1379.0
+    },
+    "Montgomery County_9503": {
+        "population": 5135.0,
+        "minority_population": 51.900001525878906,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 73.86000061035156,
+        "number_of_owner_occupied_units": 1387.0,
+        "number_of_1_to_4_family_units": 2549.0
+    },
+    "Neshoba County_101": {
+        "population": 5805.0,
+        "minority_population": 19.709999084472656,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 127.12999725341795,
+        "number_of_owner_occupied_units": 1874.0,
+        "number_of_1_to_4_family_units": 2590.0
+    },
+    "Neshoba County_102": {
+        "population": 2834.0,
+        "minority_population": 25.15999984741211,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 102.2699966430664,
+        "number_of_owner_occupied_units": 955.0,
+        "number_of_1_to_4_family_units": 1310.0
+    },
+    "Neshoba County_104": {
+        "population": 3749.0,
+        "minority_population": 70.70999908447266,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 89.66999816894531,
+        "number_of_owner_occupied_units": 862.0,
+        "number_of_1_to_4_family_units": 1596.0
+    },
+    "Neshoba County_105": {
+        "population": 3093.0,
+        "minority_population": 48.5,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 104.87000274658205,
+        "number_of_owner_occupied_units": 558.0,
+        "number_of_1_to_4_family_units": 1035.0
+    },
+    "Neshoba County_106": {
+        "population": 4664.0,
+        "minority_population": 21.15999984741211,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 82.33000183105469,
+        "number_of_owner_occupied_units": 1313.0,
+        "number_of_1_to_4_family_units": 2047.0
+    },
+    "Neshoba County_107": {
+        "population": 5185.0,
+        "minority_population": 28.520000457763672,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 93.05999755859376,
+        "number_of_owner_occupied_units": 1326.0,
+        "number_of_1_to_4_family_units": 2087.0
+    },
+    "Neshoba County_9401": {
+        "population": 4223.0,
+        "minority_population": 84.2300033569336,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 86.05999755859375,
+        "number_of_owner_occupied_units": 821.0,
+        "number_of_1_to_4_family_units": 1268.0
+    },
+    "Newton County_501": {
+        "population": 2897.0,
+        "minority_population": 5.630000114440918,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 126.16000366210938,
+        "number_of_owner_occupied_units": 1059.0,
+        "number_of_1_to_4_family_units": 1396.0
+    },
+    "Newton County_502": {
+        "population": 3553.0,
+        "minority_population": 24.540000915527344,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 101.52999877929688,
+        "number_of_owner_occupied_units": 934.0,
+        "number_of_1_to_4_family_units": 1495.0
+    },
+    "Newton County_503": {
+        "population": 5977.0,
+        "minority_population": 42.810001373291016,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 103.52999877929688,
+        "number_of_owner_occupied_units": 1511.0,
+        "number_of_1_to_4_family_units": 2238.0
+    },
+    "Newton County_504": {
+        "population": 5549.0,
+        "minority_population": 35.93000030517578,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 106.94000244140624,
+        "number_of_owner_occupied_units": 1726.0,
+        "number_of_1_to_4_family_units": 2252.0
+    },
+    "Newton County_505": {
+        "population": 3687.0,
+        "minority_population": 69.88999938964844,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 88.75,
+        "number_of_owner_occupied_units": 951.0,
+        "number_of_1_to_4_family_units": 1696.0
+    },
+    "Noxubee County_9501": {
+        "population": 5348.0,
+        "minority_population": 70.02999877929688,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 97.5199966430664,
+        "number_of_owner_occupied_units": 1599.0,
+        "number_of_1_to_4_family_units": 2283.0
+    },
+    "Noxubee County_9502": {
+        "population": 3458.0,
+        "minority_population": 73.27999877929688,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 100.37000274658205,
+        "number_of_owner_occupied_units": 894.0,
+        "number_of_1_to_4_family_units": 1820.0
+    },
+    "Noxubee County_9503": {
+        "population": 2337.0,
+        "minority_population": 81.63999938964844,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 45.65999984741211,
+        "number_of_owner_occupied_units": 433.0,
+        "number_of_1_to_4_family_units": 838.0
+    },
+    "Oktibbeha County_9501": {
+        "population": 8602.0,
+        "minority_population": 46.84999847412109,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 161.14999389648438,
+        "number_of_owner_occupied_units": 1541.0,
+        "number_of_1_to_4_family_units": 2614.0
+    },
+    "Oktibbeha County_9502": {
+        "population": 6837.0,
+        "minority_population": 34.779998779296875,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 97.43000030517578,
+        "number_of_owner_occupied_units": 1569.0,
+        "number_of_1_to_4_family_units": 2355.0
+    },
+    "Oktibbeha County_9503": {
+        "population": 3639.0,
+        "minority_population": 66.38999938964844,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 80.08000183105469,
+        "number_of_owner_occupied_units": 550.0,
+        "number_of_1_to_4_family_units": 1079.0
+    },
+    "Oktibbeha County_9504": {
+        "population": 7711.0,
+        "minority_population": 28.920000076293945,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 105.6999969482422,
+        "number_of_owner_occupied_units": 560.0,
+        "number_of_1_to_4_family_units": 1868.0
+    },
+    "Oktibbeha County_9505": {
+        "population": 4118.0,
+        "minority_population": 36.22999954223633,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 134.0500030517578,
+        "number_of_owner_occupied_units": 799.0,
+        "number_of_1_to_4_family_units": 1748.0
+    },
+    "Oktibbeha County_9506": {
+        "population": 5546.0,
+        "minority_population": 57.02999877929688,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 85.05999755859375,
+        "number_of_owner_occupied_units": 985.0,
+        "number_of_1_to_4_family_units": 2467.0
+    },
+    "Oktibbeha County_9507": {
+        "population": 7827.0,
+        "minority_population": 47.709999084472656,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 108.04000091552734,
+        "number_of_owner_occupied_units": 2367.0,
+        "number_of_1_to_4_family_units": 3437.0
+    },
+    "Panola County_9501": {
+        "population": 7345.0,
+        "minority_population": 73.93000030517578,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 98.41999816894533,
+        "number_of_owner_occupied_units": 1839.0,
+        "number_of_1_to_4_family_units": 3263.0
+    },
+    "Panola County_9502": {
+        "population": 2928.0,
+        "minority_population": 73.52999877929688,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 78.02999877929688,
+        "number_of_owner_occupied_units": 519.0,
+        "number_of_1_to_4_family_units": 1098.0
+    },
+    "Panola County_9503": {
+        "population": 5139.0,
+        "minority_population": 40.91999816894531,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 99.98999786376952,
+        "number_of_owner_occupied_units": 1566.0,
+        "number_of_1_to_4_family_units": 2519.0
+    },
+    "Panola County_9504": {
+        "population": 5071.0,
+        "minority_population": 24.989999771118164,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 124.88999938964844,
+        "number_of_owner_occupied_units": 1767.0,
+        "number_of_1_to_4_family_units": 2379.0
+    },
+    "Panola County_9505": {
+        "population": 7067.0,
+        "minority_population": 52.0,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 92.63999938964844,
+        "number_of_owner_occupied_units": 1774.0,
+        "number_of_1_to_4_family_units": 2412.0
+    },
+    "Panola County_9506": {
+        "population": 6823.0,
+        "minority_population": 48.369998931884766,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 118.0199966430664,
+        "number_of_owner_occupied_units": 1538.0,
+        "number_of_1_to_4_family_units": 2445.0
+    },
+    "Pearl River County_9501": {
+        "population": 5582.0,
+        "minority_population": 5.639999866485596,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 126.98999786376952,
+        "number_of_owner_occupied_units": 1754.0,
+        "number_of_1_to_4_family_units": 2741.0
+    },
+    "Pearl River County_9502": {
+        "population": 5725.0,
+        "minority_population": 26.63999938964844,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 118.77999877929688,
+        "number_of_owner_occupied_units": 1824.0,
+        "number_of_1_to_4_family_units": 2776.0
+    },
+    "Pearl River County_9503": {
+        "population": 3304.0,
+        "minority_population": 31.38999938964844,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 120.12999725341795,
+        "number_of_owner_occupied_units": 684.0,
+        "number_of_1_to_4_family_units": 1211.0
+    },
+    "Pearl River County_9504": {
+        "population": 6931.0,
+        "minority_population": 15.729999542236328,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 117.79000091552734,
+        "number_of_owner_occupied_units": 1913.0,
+        "number_of_1_to_4_family_units": 2565.0
+    },
+    "Pearl River County_9505": {
+        "population": 7824.0,
+        "minority_population": 6.519999980926514,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 181.38999938964844,
+        "number_of_owner_occupied_units": 2562.0,
+        "number_of_1_to_4_family_units": 3345.0
+    },
+    "Pearl River County_9506": {
+        "population": 4215.0,
+        "minority_population": 27.780000686645508,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 109.87999725341795,
+        "number_of_owner_occupied_units": 947.0,
+        "number_of_1_to_4_family_units": 1876.0
+    },
+    "Pearl River County_9507": {
+        "population": 7250.0,
+        "minority_population": 38.86000061035156,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 77.22000122070312,
+        "number_of_owner_occupied_units": 1389.0,
+        "number_of_1_to_4_family_units": 3063.0
+    },
+    "Perry County_9501": {
+        "population": 3840.0,
+        "minority_population": 22.01000022888184,
+        "hud_median_family_income": 51600.0,
+        "tract_to_msamd_income": 85.08000183105469,
+        "number_of_owner_occupied_units": 1239.0,
+        "number_of_1_to_4_family_units": 1719.0
+    },
+    "Perry County_9502": {
+        "population": 3972.0,
+        "minority_population": 35.95000076293945,
+        "hud_median_family_income": 51600.0,
+        "tract_to_msamd_income": 68.77999877929688,
+        "number_of_owner_occupied_units": 1149.0,
+        "number_of_1_to_4_family_units": 1705.0
+    },
+    "Pike County_9501": {
+        "population": 4235.0,
+        "minority_population": 14.710000038146973,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 136.6300048828125,
+        "number_of_owner_occupied_units": 1364.0,
+        "number_of_1_to_4_family_units": 1743.0
+    },
+    "Pike County_9502": {
+        "population": 5420.0,
+        "minority_population": 52.25,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 96.5999984741211,
+        "number_of_owner_occupied_units": 1310.0,
+        "number_of_1_to_4_family_units": 1954.0
+    },
+    "Pike County_9503": {
+        "population": 5194.0,
+        "minority_population": 94.9000015258789,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 57.04999923706055,
+        "number_of_owner_occupied_units": 688.0,
+        "number_of_1_to_4_family_units": 2104.0
+    },
+    "Pike County_9504": {
+        "population": 3372.0,
+        "minority_population": 43.95000076293945,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 111.7300033569336,
+        "number_of_owner_occupied_units": 773.0,
+        "number_of_1_to_4_family_units": 1314.0
+    },
+    "Pike County_9505": {
+        "population": 6844.0,
+        "minority_population": 68.4000015258789,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 93.11000061035156,
+        "number_of_owner_occupied_units": 1350.0,
+        "number_of_1_to_4_family_units": 2787.0
+    },
+    "Pike County_9506": {
+        "population": 6348.0,
+        "minority_population": 67.95999908447266,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 79.0,
+        "number_of_owner_occupied_units": 1789.0,
+        "number_of_1_to_4_family_units": 3155.0
+    },
+    "Pike County_9507": {
+        "population": 3674.0,
+        "minority_population": 44.83000183105469,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 73.69000244140625,
+        "number_of_owner_occupied_units": 1026.0,
+        "number_of_1_to_4_family_units": 1904.0
+    },
+    "Pontotoc County_9501": {
+        "population": 5965.0,
+        "minority_population": 27.690000534057617,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 100.88999938964844,
+        "number_of_owner_occupied_units": 1426.0,
+        "number_of_1_to_4_family_units": 2334.0
+    },
+    "Pontotoc County_9502": {
+        "population": 5787.0,
+        "minority_population": 17.540000915527344,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 131.9199981689453,
+        "number_of_owner_occupied_units": 1396.0,
+        "number_of_1_to_4_family_units": 2075.0
+    },
+    "Pontotoc County_9503": {
+        "population": 5358.0,
+        "minority_population": 29.81999969482422,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 127.16000366210938,
+        "number_of_owner_occupied_units": 1273.0,
+        "number_of_1_to_4_family_units": 2223.0
+    },
+    "Pontotoc County_9504": {
+        "population": 4407.0,
+        "minority_population": 19.420000076293945,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 114.63999938964844,
+        "number_of_owner_occupied_units": 1379.0,
+        "number_of_1_to_4_family_units": 2048.0
+    },
+    "Pontotoc County_9505": {
+        "population": 4586.0,
+        "minority_population": 8.050000190734863,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 117.41999816894533,
+        "number_of_owner_occupied_units": 1361.0,
+        "number_of_1_to_4_family_units": 2015.0
+    },
+    "Prentiss County_9501": {
+        "population": 6303.0,
+        "minority_population": 5.46999979019165,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 103.08000183105467,
+        "number_of_owner_occupied_units": 1823.0,
+        "number_of_1_to_4_family_units": 2551.0
+    },
+    "Prentiss County_9502": {
+        "population": 5564.0,
+        "minority_population": 9.0,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 94.95999908447266,
+        "number_of_owner_occupied_units": 1801.0,
+        "number_of_1_to_4_family_units": 2678.0
+    },
+    "Prentiss County_9503": {
+        "population": 6801.0,
+        "minority_population": 28.450000762939453,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 81.13999938964844,
+        "number_of_owner_occupied_units": 1283.0,
+        "number_of_1_to_4_family_units": 2159.0
+    },
+    "Prentiss County_9504": {
+        "population": 4808.0,
+        "minority_population": 7.050000190734863,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 108.58999633789062,
+        "number_of_owner_occupied_units": 1845.0,
+        "number_of_1_to_4_family_units": 2423.0
+    },
+    "Prentiss County_9505": {
+        "population": 1904.0,
+        "minority_population": 58.09000015258789,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 57.20000076293945,
+        "number_of_owner_occupied_units": 373.0,
+        "number_of_1_to_4_family_units": 870.0
+    },
+    "Quitman County_9501": {
+        "population": 2258.0,
+        "minority_population": 87.16000366210938,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 78.6500015258789,
+        "number_of_owner_occupied_units": 577.0,
+        "number_of_1_to_4_family_units": 928.0
+    },
+    "Quitman County_9502": {
+        "population": 1718.0,
+        "minority_population": 78.80999755859375,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 60.060001373291016,
+        "number_of_owner_occupied_units": 456.0,
+        "number_of_1_to_4_family_units": 817.0
+    },
+    "Quitman County_9503": {
+        "population": 3785.0,
+        "minority_population": 59.150001525878906,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 80.33000183105469,
+        "number_of_owner_occupied_units": 965.0,
+        "number_of_1_to_4_family_units": 1689.0
+    },
+    "Rankin County_201": {
+        "population": 10690.0,
+        "minority_population": 20.5,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 157.0500030517578,
+        "number_of_owner_occupied_units": 3272.0,
+        "number_of_1_to_4_family_units": 4146.0
+    },
+    "Rankin County_202": {
+        "population": 1419.0,
+        "minority_population": 29.8799991607666,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 117.47000122070312,
+        "number_of_owner_occupied_units": 235.0,
+        "number_of_1_to_4_family_units": 371.0
+    },
+    "Rankin County_203": {
+        "population": 8132.0,
+        "minority_population": 25.15999984741211,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 115.26000213623048,
+        "number_of_owner_occupied_units": 2321.0,
+        "number_of_1_to_4_family_units": 3151.0
+    },
+    "Rankin County_204": {
+        "population": 6298.0,
+        "minority_population": 27.26000022888184,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 114.8499984741211,
+        "number_of_owner_occupied_units": 1547.0,
+        "number_of_1_to_4_family_units": 2291.0
+    },
+    "Rankin County_205": {
+        "population": 4651.0,
+        "minority_population": 54.84999847412109,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 0.0,
+        "number_of_owner_occupied_units": 0.0,
+        "number_of_1_to_4_family_units": 21.0
+    },
+    "Rankin County_206": {
+        "population": 9132.0,
+        "minority_population": 48.369998931884766,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 84.56999969482422,
+        "number_of_owner_occupied_units": 2232.0,
+        "number_of_1_to_4_family_units": 3273.0
+    },
+    "Rankin County_207": {
+        "population": 6060.0,
+        "minority_population": 23.479999542236328,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 82.69999694824219,
+        "number_of_owner_occupied_units": 1319.0,
+        "number_of_1_to_4_family_units": 1942.0
+    },
+    "Rankin County_208": {
+        "population": 1978.0,
+        "minority_population": 5.96999979019165,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 97.63999938964844,
+        "number_of_owner_occupied_units": 640.0,
+        "number_of_1_to_4_family_units": 896.0
+    },
+    "Rankin County_209": {
+        "population": 7515.0,
+        "minority_population": 27.229999542236328,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 102.61000061035156,
+        "number_of_owner_occupied_units": 2162.0,
+        "number_of_1_to_4_family_units": 2841.0
+    },
+    "Rankin County_210": {
+        "population": 5051.0,
+        "minority_population": 16.56999969482422,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 104.22000122070312,
+        "number_of_owner_occupied_units": 1649.0,
+        "number_of_1_to_4_family_units": 2207.0
+    },
+    "Scott County_201": {
+        "population": 6475.0,
+        "minority_population": 49.66999816894531,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 77.01000213623047,
+        "number_of_owner_occupied_units": 1789.0,
+        "number_of_1_to_4_family_units": 2836.0
+    },
+    "Scott County_202": {
+        "population": 4948.0,
+        "minority_population": 50.15999984741211,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 80.80000305175781,
+        "number_of_owner_occupied_units": 1459.0,
+        "number_of_1_to_4_family_units": 2131.0
+    },
+    "Scott County_203": {
+        "population": 5064.0,
+        "minority_population": 26.21999931335449,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 115.06999969482422,
+        "number_of_owner_occupied_units": 1409.0,
+        "number_of_1_to_4_family_units": 2032.0
+    },
+    "Scott County_204": {
+        "population": 3201.0,
+        "minority_population": 71.37999725341797,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 68.80999755859375,
+        "number_of_owner_occupied_units": 675.0,
+        "number_of_1_to_4_family_units": 1065.0
+    },
+    "Scott County_205": {
+        "population": 4907.0,
+        "minority_population": 65.11000061035156,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 97.23999786376952,
+        "number_of_owner_occupied_units": 903.0,
+        "number_of_1_to_4_family_units": 1653.0
+    },
+    "Scott County_206": {
+        "population": 3698.0,
+        "minority_population": 40.2400016784668,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 98.58999633789062,
+        "number_of_owner_occupied_units": 961.0,
+        "number_of_1_to_4_family_units": 1412.0
+    },
+    "Sharkey County_9501": {
+        "population": 2437.0,
+        "minority_population": 69.72000122070312,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 102.33999633789062,
+        "number_of_owner_occupied_units": 580.0,
+        "number_of_1_to_4_family_units": 1189.0
+    },
+    "Sharkey County_9502": {
+        "population": 2368.0,
+        "minority_population": 75.04000091552734,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 75.79000091552734,
+        "number_of_owner_occupied_units": 488.0,
+        "number_of_1_to_4_family_units": 842.0
+    },
+    "Simpson County_9501": {
+        "population": 4809.0,
+        "minority_population": 45.310001373291016,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 71.91000366210938,
+        "number_of_owner_occupied_units": 1453.0,
+        "number_of_1_to_4_family_units": 2269.0
+    },
+    "Simpson County_9502": {
+        "population": 3596.0,
+        "minority_population": 34.369998931884766,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 66.91000366210938,
+        "number_of_owner_occupied_units": 919.0,
+        "number_of_1_to_4_family_units": 1504.0
+    },
+    "Simpson County_9503": {
+        "population": 6031.0,
+        "minority_population": 28.96999931335449,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 77.91999816894531,
+        "number_of_owner_occupied_units": 1980.0,
+        "number_of_1_to_4_family_units": 2742.0
+    },
+    "Simpson County_9504": {
+        "population": 8141.0,
+        "minority_population": 34.70000076293945,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 73.19999694824219,
+        "number_of_owner_occupied_units": 2322.0,
+        "number_of_1_to_4_family_units": 3557.0
+    },
+    "Simpson County_9505": {
+        "population": 4824.0,
+        "minority_population": 52.43000030517578,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 54.56999969482422,
+        "number_of_owner_occupied_units": 872.0,
+        "number_of_1_to_4_family_units": 1537.0
+    },
+    "Smith County_9501": {
+        "population": 4896.0,
+        "minority_population": 25.86000061035156,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 109.70999908447266,
+        "number_of_owner_occupied_units": 1606.0,
+        "number_of_1_to_4_family_units": 2329.0
+    },
+    "Smith County_9502": {
+        "population": 6242.0,
+        "minority_population": 16.6299991607666,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 95.0,
+        "number_of_owner_occupied_units": 1887.0,
+        "number_of_1_to_4_family_units": 2700.0
+    },
+    "Smith County_9503": {
+        "population": 5119.0,
+        "minority_population": 35.400001525878906,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 127.87000274658205,
+        "number_of_owner_occupied_units": 1415.0,
+        "number_of_1_to_4_family_units": 2154.0
+    },
+    "Stone County_201": {
+        "population": 3783.0,
+        "minority_population": 32.40999984741211,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 92.2699966430664,
+        "number_of_owner_occupied_units": 618.0,
+        "number_of_1_to_4_family_units": 1152.0
+    },
+    "Stone County_202": {
+        "population": 7217.0,
+        "minority_population": 26.520000457763672,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 118.8000030517578,
+        "number_of_owner_occupied_units": 1989.0,
+        "number_of_1_to_4_family_units": 2897.0
+    },
+    "Sunflower County_9501": {
+        "population": 6865.0,
+        "minority_population": 70.25,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 83.27999877929688,
+        "number_of_owner_occupied_units": 559.0,
+        "number_of_1_to_4_family_units": 1199.0
+    },
+    "Sunflower County_9502": {
+        "population": 4584.0,
+        "minority_population": 68.73999786376953,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 75.37000274658203,
+        "number_of_owner_occupied_units": 930.0,
+        "number_of_1_to_4_family_units": 1644.0
+    },
+    "Sunflower County_9503": {
+        "population": 2448.0,
+        "minority_population": 66.91000366210938,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 84.27999877929688,
+        "number_of_owner_occupied_units": 501.0,
+        "number_of_1_to_4_family_units": 879.0
+    },
+    "Sunflower County_9504": {
+        "population": 5816.0,
+        "minority_population": 99.11000061035156,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 55.790000915527344,
+        "number_of_owner_occupied_units": 1068.0,
+        "number_of_1_to_4_family_units": 1929.0
+    },
+    "Sunflower County_9505": {
+        "population": 2569.0,
+        "minority_population": 80.80999755859375,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 51.47999954223633,
+        "number_of_owner_occupied_units": 430.0,
+        "number_of_1_to_4_family_units": 802.0
+    },
+    "Sunflower County_9506": {
+        "population": 2246.0,
+        "minority_population": 64.11000061035156,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 87.05999755859375,
+        "number_of_owner_occupied_units": 566.0,
+        "number_of_1_to_4_family_units": 923.0
+    },
+    "Tallahatchie County_9501": {
+        "population": 3004.0,
+        "minority_population": 20.770000457763672,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 98.5199966430664,
+        "number_of_owner_occupied_units": 1018.0,
+        "number_of_1_to_4_family_units": 1560.0
+    },
+    "Tallahatchie County_9502": {
+        "population": 1439.0,
+        "minority_population": 63.2400016784668,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 98.33000183105467,
+        "number_of_owner_occupied_units": 345.0,
+        "number_of_1_to_4_family_units": 799.0
+    },
+    "Tallahatchie County_9503": {
+        "population": 8946.0,
+        "minority_population": 81.58999633789062,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 94.20999908447266,
+        "number_of_owner_occupied_units": 1329.0,
+        "number_of_1_to_4_family_units": 2114.0
+    },
+    "Tallahatchie County_9504": {
+        "population": 1570.0,
+        "minority_population": 45.72999954223633,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 83.83999633789062,
+        "number_of_owner_occupied_units": 591.0,
+        "number_of_1_to_4_family_units": 948.0
+    },
+    "Tate County_9501": {
+        "population": 5431.0,
+        "minority_population": 35.02000045776367,
+        "hud_median_family_income": 59100.0,
+        "tract_to_msamd_income": 86.94999694824219,
+        "number_of_owner_occupied_units": 1507.0,
+        "number_of_1_to_4_family_units": 2117.0
+    },
+    "Tate County_9502": {
+        "population": 6777.0,
+        "minority_population": 21.170000076293945,
+        "hud_median_family_income": 59100.0,
+        "tract_to_msamd_income": 106.18000030517578,
+        "number_of_owner_occupied_units": 2212.0,
+        "number_of_1_to_4_family_units": 2613.0
+    },
+    "Tate County_9503": {
+        "population": 6353.0,
+        "minority_population": 23.40999984741211,
+        "hud_median_family_income": 59100.0,
+        "tract_to_msamd_income": 98.61000061035156,
+        "number_of_owner_occupied_units": 1697.0,
+        "number_of_1_to_4_family_units": 2189.0
+    },
+    "Tate County_9504": {
+        "population": 5951.0,
+        "minority_population": 49.290000915527344,
+        "hud_median_family_income": 59100.0,
+        "tract_to_msamd_income": 75.44000244140625,
+        "number_of_owner_occupied_units": 952.0,
+        "number_of_1_to_4_family_units": 2029.0
+    },
+    "Tippah County_9501": {
+        "population": 4687.0,
+        "minority_population": 13.850000381469728,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 82.94000244140625,
+        "number_of_owner_occupied_units": 1626.0,
+        "number_of_1_to_4_family_units": 2267.0
+    },
+    "Tippah County_9502": {
+        "population": 6559.0,
+        "minority_population": 16.68000030517578,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 96.9800033569336,
+        "number_of_owner_occupied_units": 1918.0,
+        "number_of_1_to_4_family_units": 2880.0
+    },
+    "Tippah County_9503": {
+        "population": 2986.0,
+        "minority_population": 40.81999969482422,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 102.70999908447266,
+        "number_of_owner_occupied_units": 630.0,
+        "number_of_1_to_4_family_units": 1172.0
+    },
+    "Tippah County_9504": {
+        "population": 7822.0,
+        "minority_population": 25.270000457763672,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 120.83000183105467,
+        "number_of_owner_occupied_units": 2240.0,
+        "number_of_1_to_4_family_units": 3296.0
+    },
+    "Tishomingo County_9501": {
+        "population": 2805.0,
+        "minority_population": 0.5,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 114.0999984741211,
+        "number_of_owner_occupied_units": 1043.0,
+        "number_of_1_to_4_family_units": 2372.0
+    },
+    "Tishomingo County_9502": {
+        "population": 2386.0,
+        "minority_population": 8.680000305175781,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 83.41000366210938,
+        "number_of_owner_occupied_units": 529.0,
+        "number_of_1_to_4_family_units": 1113.0
+    },
+    "Tishomingo County_9503": {
+        "population": 6407.0,
+        "minority_population": 2.720000028610229,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 89.11000061035156,
+        "number_of_owner_occupied_units": 1881.0,
+        "number_of_1_to_4_family_units": 2999.0
+    },
+    "Tishomingo County_9504": {
+        "population": 7941.0,
+        "minority_population": 11.18000030517578,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 98.23999786376952,
+        "number_of_owner_occupied_units": 2408.0,
+        "number_of_1_to_4_family_units": 3532.0
+    },
+    "Tunica County_9501": {
+        "population": 5530.0,
+        "minority_population": 77.11000061035156,
+        "hud_median_family_income": 59100.0,
+        "tract_to_msamd_income": 58.040000915527344,
+        "number_of_owner_occupied_units": 782.0,
+        "number_of_1_to_4_family_units": 1783.0
+    },
+    "Tunica County_9502": {
+        "population": 4947.0,
+        "minority_population": 80.94000244140625,
+        "hud_median_family_income": 59100.0,
+        "tract_to_msamd_income": 54.34999847412109,
+        "number_of_owner_occupied_units": 859.0,
+        "number_of_1_to_4_family_units": 1646.0
+    },
+    "Union County_9501": {
+        "population": 4735.0,
+        "minority_population": 8.529999732971191,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 96.02999877929688,
+        "number_of_owner_occupied_units": 1486.0,
+        "number_of_1_to_4_family_units": 1959.0
+    },
+    "Union County_9502": {
+        "population": 5179.0,
+        "minority_population": 9.920000076293944,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 93.7300033569336,
+        "number_of_owner_occupied_units": 1296.0,
+        "number_of_1_to_4_family_units": 2022.0
+    },
+    "Union County_9503": {
+        "population": 4456.0,
+        "minority_population": 38.310001373291016,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 126.08999633789062,
+        "number_of_owner_occupied_units": 836.0,
+        "number_of_1_to_4_family_units": 1615.0
+    },
+    "Union County_9504": {
+        "population": 4304.0,
+        "minority_population": 45.02999877929688,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 104.51000213623048,
+        "number_of_owner_occupied_units": 927.0,
+        "number_of_1_to_4_family_units": 1792.0
+    },
+    "Union County_9505": {
+        "population": 5470.0,
+        "minority_population": 9.399999618530272,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 74.55000305175781,
+        "number_of_owner_occupied_units": 1619.0,
+        "number_of_1_to_4_family_units": 2328.0
+    },
+    "Union County_9506": {
+        "population": 3667.0,
+        "minority_population": 22.059999465942383,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 109.25,
+        "number_of_owner_occupied_units": 1176.0,
+        "number_of_1_to_4_family_units": 1593.0
+    },
+    "Walthall County_9501": {
+        "population": 6953.0,
+        "minority_population": 55.59999847412109,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 84.06999969482422,
+        "number_of_owner_occupied_units": 2188.0,
+        "number_of_1_to_4_family_units": 3294.0
+    },
+    "Walthall County_9502": {
+        "population": 1671.0,
+        "minority_population": 42.970001220703125,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 70.36000061035156,
+        "number_of_owner_occupied_units": 430.0,
+        "number_of_1_to_4_family_units": 779.0
+    },
+    "Walthall County_9503": {
+        "population": 6354.0,
+        "minority_population": 38.900001525878906,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 115.4499969482422,
+        "number_of_owner_occupied_units": 2299.0,
+        "number_of_1_to_4_family_units": 3066.0
+    },
+    "Warren County_9501": {
+        "population": 4584.0,
+        "minority_population": 38.34999847412109,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 134.60000610351562,
+        "number_of_owner_occupied_units": 1434.0,
+        "number_of_1_to_4_family_units": 2484.0
+    },
+    "Warren County_9502": {
+        "population": 3823.0,
+        "minority_population": 82.62999725341797,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 82.7300033569336,
+        "number_of_owner_occupied_units": 757.0,
+        "number_of_1_to_4_family_units": 1521.0
+    },
+    "Warren County_9503": {
+        "population": 3443.0,
+        "minority_population": 88.81999969482422,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 60.65999984741211,
+        "number_of_owner_occupied_units": 274.0,
+        "number_of_1_to_4_family_units": 1041.0
+    },
+    "Warren County_9504": {
+        "population": 3141.0,
+        "minority_population": 72.45999908447266,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 78.31999969482422,
+        "number_of_owner_occupied_units": 743.0,
+        "number_of_1_to_4_family_units": 1435.0
+    },
+    "Warren County_9505": {
+        "population": 2874.0,
+        "minority_population": 60.130001068115234,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 76.19999694824219,
+        "number_of_owner_occupied_units": 436.0,
+        "number_of_1_to_4_family_units": 868.0
+    },
+    "Warren County_9506": {
+        "population": 5746.0,
+        "minority_population": 42.970001220703125,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 148.57000732421875,
+        "number_of_owner_occupied_units": 1617.0,
+        "number_of_1_to_4_family_units": 1889.0
+    },
+    "Warren County_9507": {
+        "population": 2078.0,
+        "minority_population": 66.83999633789062,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 113.29000091552734,
+        "number_of_owner_occupied_units": 478.0,
+        "number_of_1_to_4_family_units": 1139.0
+    },
+    "Warren County_9508": {
+        "population": 3966.0,
+        "minority_population": 65.02999877929688,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 124.02999877929688,
+        "number_of_owner_occupied_units": 1111.0,
+        "number_of_1_to_4_family_units": 1416.0
+    },
+    "Warren County_9509": {
+        "population": 4215.0,
+        "minority_population": 35.939998626708984,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 133.88999938964844,
+        "number_of_owner_occupied_units": 1034.0,
+        "number_of_1_to_4_family_units": 1533.0
+    },
+    "Warren County_9511": {
+        "population": 4541.0,
+        "minority_population": 43.22999954223633,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 143.42999267578125,
+        "number_of_owner_occupied_units": 1233.0,
+        "number_of_1_to_4_family_units": 1852.0
+    },
+    "Washington County_1": {
+        "population": 1481.0,
+        "minority_population": 39.43000030517578,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 104.16999816894533,
+        "number_of_owner_occupied_units": 299.0,
+        "number_of_1_to_4_family_units": 669.0
+    },
+    "Washington County_2": {
+        "population": 2007.0,
+        "minority_population": 74.38999938964844,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 75.0199966430664,
+        "number_of_owner_occupied_units": 451.0,
+        "number_of_1_to_4_family_units": 794.0
+    },
+    "Washington County_3": {
+        "population": 3128.0,
+        "minority_population": 94.5,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 71.29000091552734,
+        "number_of_owner_occupied_units": 463.0,
+        "number_of_1_to_4_family_units": 1153.0
+    },
+    "Washington County_4": {
+        "population": 2760.0,
+        "minority_population": 99.70999908447266,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 42.0,
+        "number_of_owner_occupied_units": 287.0,
+        "number_of_1_to_4_family_units": 1064.0
+    },
+    "Washington County_6": {
+        "population": 3037.0,
+        "minority_population": 96.25,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 38.41999816894531,
+        "number_of_owner_occupied_units": 370.0,
+        "number_of_1_to_4_family_units": 1116.0
+    },
+    "Washington County_7": {
+        "population": 3641.0,
+        "minority_population": 46.41999816894531,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 157.02000427246094,
+        "number_of_owner_occupied_units": 961.0,
+        "number_of_1_to_4_family_units": 1470.0
+    },
+    "Washington County_8": {
+        "population": 3516.0,
+        "minority_population": 57.38999938964844,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 111.5500030517578,
+        "number_of_owner_occupied_units": 919.0,
+        "number_of_1_to_4_family_units": 1314.0
+    },
+    "Washington County_9": {
+        "population": 2960.0,
+        "minority_population": 66.98999786376953,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 91.4800033569336,
+        "number_of_owner_occupied_units": 628.0,
+        "number_of_1_to_4_family_units": 1121.0
+    },
+    "Washington County_11": {
+        "population": 1499.0,
+        "minority_population": 100.0,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 43.540000915527344,
+        "number_of_owner_occupied_units": 263.0,
+        "number_of_1_to_4_family_units": 811.0
+    },
+    "Washington County_12": {
+        "population": 2447.0,
+        "minority_population": 98.37000274658205,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 49.290000915527344,
+        "number_of_owner_occupied_units": 482.0,
+        "number_of_1_to_4_family_units": 1034.0
+    },
+    "Washington County_13": {
+        "population": 2430.0,
+        "minority_population": 91.36000061035156,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 67.33999633789062,
+        "number_of_owner_occupied_units": 292.0,
+        "number_of_1_to_4_family_units": 984.0
+    },
+    "Washington County_14": {
+        "population": 4049.0,
+        "minority_population": 80.93000030517578,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 109.94000244140624,
+        "number_of_owner_occupied_units": 835.0,
+        "number_of_1_to_4_family_units": 1467.0
+    },
+    "Washington County_15": {
+        "population": 4496.0,
+        "minority_population": 30.71999931335449,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 91.12999725341795,
+        "number_of_owner_occupied_units": 1115.0,
+        "number_of_1_to_4_family_units": 2033.0
+    },
+    "Washington County_16": {
+        "population": 1919.0,
+        "minority_population": 68.11000061035156,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 73.31999969482422,
+        "number_of_owner_occupied_units": 423.0,
+        "number_of_1_to_4_family_units": 801.0
+    },
+    "Washington County_17": {
+        "population": 2731.0,
+        "minority_population": 72.94000244140625,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 93.27999877929688,
+        "number_of_owner_occupied_units": 655.0,
+        "number_of_1_to_4_family_units": 1159.0
+    },
+    "Washington County_20": {
+        "population": 1355.0,
+        "minority_population": 78.97000122070312,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 78.31999969482422,
+        "number_of_owner_occupied_units": 369.0,
+        "number_of_1_to_4_family_units": 582.0
+    },
+    "Washington County_21": {
+        "population": 1293.0,
+        "minority_population": 96.5999984741211,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 48.209999084472656,
+        "number_of_owner_occupied_units": 203.0,
+        "number_of_1_to_4_family_units": 513.0
+    },
+    "Wayne County_9501": {
+        "population": 4999.0,
+        "minority_population": 51.93000030517578,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 121.66000366210938,
+        "number_of_owner_occupied_units": 1725.0,
+        "number_of_1_to_4_family_units": 2445.0
+    },
+    "Wayne County_9502": {
+        "population": 4684.0,
+        "minority_population": 60.400001525878906,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 50.63999938964844,
+        "number_of_owner_occupied_units": 1075.0,
+        "number_of_1_to_4_family_units": 1837.0
+    },
+    "Wayne County_9503": {
+        "population": 5312.0,
+        "minority_population": 25.68000030517578,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 130.35000610351562,
+        "number_of_owner_occupied_units": 1878.0,
+        "number_of_1_to_4_family_units": 2328.0
+    },
+    "Wayne County_9504": {
+        "population": 5569.0,
+        "minority_population": 31.32999992370605,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 110.45999908447266,
+        "number_of_owner_occupied_units": 1809.0,
+        "number_of_1_to_4_family_units": 2300.0
+    },
+    "Webster County_9501": {
+        "population": 4685.0,
+        "minority_population": 13.600000381469728,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 129.66000366210938,
+        "number_of_owner_occupied_units": 1517.0,
+        "number_of_1_to_4_family_units": 2063.0
+    },
+    "Webster County_9502": {
+        "population": 3680.0,
+        "minority_population": 22.549999237060547,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 103.62000274658205,
+        "number_of_owner_occupied_units": 1206.0,
+        "number_of_1_to_4_family_units": 1817.0
+    },
+    "Webster County_9503": {
+        "population": 1634.0,
+        "minority_population": 46.27000045776367,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 44.56999969482422,
+        "number_of_owner_occupied_units": 335.0,
+        "number_of_1_to_4_family_units": 814.0
+    },
+    "Wilkinson County_9501": {
+        "population": 4284.0,
+        "minority_population": 63.0,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 84.31999969482422,
+        "number_of_owner_occupied_units": 1157.0,
+        "number_of_1_to_4_family_units": 1932.0
+    },
+    "Wilkinson County_9502": {
+        "population": 5061.0,
+        "minority_population": 78.16999816894531,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 88.81999969482422,
+        "number_of_owner_occupied_units": 1370.0,
+        "number_of_1_to_4_family_units": 3064.0
+    },
+    "Winston County_9501": {
+        "population": 3343.0,
+        "minority_population": 34.369998931884766,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 96.88999938964844,
+        "number_of_owner_occupied_units": 1106.0,
+        "number_of_1_to_4_family_units": 1543.0
+    },
+    "Winston County_9502": {
+        "population": 3988.0,
+        "minority_population": 54.13999938964844,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 87.30999755859375,
+        "number_of_owner_occupied_units": 1209.0,
+        "number_of_1_to_4_family_units": 1944.0
+    },
+    "Winston County_9503": {
+        "population": 3893.0,
+        "minority_population": 76.86000061035156,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 71.58999633789062,
+        "number_of_owner_occupied_units": 802.0,
+        "number_of_1_to_4_family_units": 1557.0
+    },
+    "Winston County_9504": {
+        "population": 3695.0,
+        "minority_population": 51.2599983215332,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 124.6500015258789,
+        "number_of_owner_occupied_units": 927.0,
+        "number_of_1_to_4_family_units": 1512.0
+    },
+    "Winston County_9505": {
+        "population": 3778.0,
+        "minority_population": 26.520000457763672,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 96.87000274658205,
+        "number_of_owner_occupied_units": 1250.0,
+        "number_of_1_to_4_family_units": 1919.0
+    },
+    "Yalobusha County_9501": {
+        "population": 3241.0,
+        "minority_population": 38.59999847412109,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 99.1500015258789,
+        "number_of_owner_occupied_units": 1060.0,
+        "number_of_1_to_4_family_units": 1822.0
+    },
+    "Yalobusha County_9502": {
+        "population": 3860.0,
+        "minority_population": 44.06999969482422,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 100.97000122070312,
+        "number_of_owner_occupied_units": 1023.0,
+        "number_of_1_to_4_family_units": 1735.0
+    },
+    "Yalobusha County_9503": {
+        "population": 5280.0,
+        "minority_population": 40.65999984741211,
+        "hud_median_family_income": 45600.0,
+        "tract_to_msamd_income": 110.77999877929688,
+        "number_of_owner_occupied_units": 1736.0,
+        "number_of_1_to_4_family_units": 2608.0
+    },
+    "Yazoo County_9501": {
+        "population": 7183.0,
+        "minority_population": 67.19999694824219,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 91.04000091552734,
+        "number_of_owner_occupied_units": 1022.0,
+        "number_of_1_to_4_family_units": 1751.0
+    },
+    "Yazoo County_9502": {
+        "population": 3197.0,
+        "minority_population": 68.16000366210938,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 75.73999786376953,
+        "number_of_owner_occupied_units": 748.0,
+        "number_of_1_to_4_family_units": 1245.0
+    },
+    "Yazoo County_9503": {
+        "population": 5003.0,
+        "minority_population": 90.12999725341795,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 39.68000030517578,
+        "number_of_owner_occupied_units": 644.0,
+        "number_of_1_to_4_family_units": 1492.0
+    },
+    "Yazoo County_9504": {
+        "population": 1910.0,
+        "minority_population": 15.34000015258789,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 88.08000183105469,
+        "number_of_owner_occupied_units": 541.0,
+        "number_of_1_to_4_family_units": 912.0
+    },
+    "Yazoo County_9505": {
+        "population": 4606.0,
+        "minority_population": 89.83999633789062,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 31.75,
+        "number_of_owner_occupied_units": 468.0,
+        "number_of_1_to_4_family_units": 1225.0
+    },
+    "Yazoo County_9506": {
+        "population": 6012.0,
+        "minority_population": 29.56999969482422,
+        "hud_median_family_income": 61400.0,
+        "tract_to_msamd_income": 76.2300033569336,
+        "number_of_owner_occupied_units": 1845.0,
+        "number_of_1_to_4_family_units": 2469.0
+    }
+}
