@@ -46,7 +46,7 @@ st.divider()
 #     "Loan Amount (000s)"
 # )
 
-loan_amount_value = st.number_input("Loan Amount (000s)", min_value=50, max_value=2000, step=10)
+loan_amount_value = st.number_input("Loan Amount (000s)", min_value=50, max_value=2000, step=50)
 
 st.divider()
 
