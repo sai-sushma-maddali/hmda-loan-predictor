@@ -51,9 +51,7 @@ loan_amount_value = st.number_input("Loan Amount (000s)", min_value=1, max_value
 st.divider()
 
 
-applicant_income_value = st.text_input(
-    "Applicant Income (000s)"
-)
+applicant_income_value = st.number_input("Applicant Income (000s)", min_value=1, max_value=8000, step=1)
 st.divider()
 
 preapproval_option = st.selectbox(
@@ -82,7 +80,7 @@ applicant_race_option = st.selectbox(
 st.divider()
 
 co_applicant_race_option = st.selectbox(
-    "Applicant Race",
+    "Co-Applicant Race",
     info["co_applicant_race_name_1_list"],
 )
 st.divider()
